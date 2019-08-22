@@ -1,0 +1,2357 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: byteball\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: byteball\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /master/i18n/po/template.pot\n"
+"Last-Translator: testz\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2019-06-07 14:35\n"
+
+#: public/views/modals/share.html:43
+msgid "'Receive' tab → 'Claim funds using textcoin' button."
+msgstr "‘Empfangen’-Tab → ‘Gelder mittels Textcoin einlösen '-Button."
+
+#: public/views/authConfirmation.html:10
+msgid "(The site won't see your balance and no money will be spent)"
+msgstr "(Diese Seite wird Ihr Guthaben nicht sehen und kein Geld wird ausgegeben)"
+
+#: public/views/modals/choose-profile.html:44
+msgid "(current wallet)"
+msgstr "(aktuelles Wallet)"
+
+#: public/views/modals/choose-profile.html:47
+msgid "(my other wallet)"
+msgstr "(mein anderes Wallet)"
+
+#: public/views/walletHome.html:674
+msgid "(possible double spend)"
+msgstr "(mögliche Doppelausgabe)"
+
+#: public/views/create.html:92
+msgid "-- Select co-signer --"
+msgstr "-- Mitunterzeichner auswählen --"
+
+#: public/views/modals/claim-textcoin.html:32
+msgid "12 words separated by dashes"
+msgstr "12 Wörter durch Bindestriche getrennt"
+
+#: public/views/preferencesGlobal.html:143
+msgid "About MCM"
+msgstr "Über MCM"
+
+#: src/js/controllers/copayers.js:8
+#: src/js/controllers/preferencesDelete.js:9
+#: src/js/controllers/walletHome.js:130
+#: src/js/services/confirmDialog.js:8
+msgid "Accept"
+msgstr "Akzeptieren"
+
+#: public/views/acceptCorrespondentInvitation.html:23
+msgid "Accept invitation"
+msgstr "Einladung akzeptieren"
+
+#: public/views/addCorrespondentDevice.html:22
+msgid "Accept invitation from the other device"
+msgstr "Einladung eines anderen Gerätes akzeptieren"
+
+#: public/views/preferencesInformation.html:65
+msgid "Account"
+msgstr "Konto"
+
+#: public/views/bot.html:36
+msgid "Add Bot"
+msgstr "Bot hinzufügen"
+
+#: public/views/correspondentDevices.html:153
+msgid "Add a new device"
+msgstr "Ein neues Gerät hinzufügen"
+
+#: public/views/modals/destination-address.html:100
+#: public/views/modals/destination-address.html:107
+msgid "Add a new entry"
+msgstr "Einen neuen Eintrag hinzufügen"
+
+#: public/views/preferencesEditRealNameAttestors.html:25
+msgid "Add address"
+msgstr "Adresse hinzufügen"
+
+#: public/views/walletHome.html:574
+msgid "Add answer"
+msgstr "Antwort hinzufügen"
+
+#: public/views/walletHome.html:574
+msgid "Add fields"
+msgstr "Felder hinzufügen"
+
+#: public/views/includes/sidebar.html:23
+msgid "Add wallet"
+msgstr "Wallet hinzufügen"
+
+#: public/views/correspondentDevices.html:194
+msgid "Added"
+msgstr "Hinzugefügt"
+
+#: public/views/modals/customized-amount.html:32
+#: public/views/modals/destination-address.html:119
+#: public/views/paymentUri.html:15
+msgid "Address"
+msgstr "Adresse"
+
+#: public/views/walletHome.html:546
+msgid "Address to attest"
+msgstr "Adresse die bestätigt werden soll"
+
+#: public/views/modals/destination-address.html:19
+#: public/views/modals/destination-address.html:23
+msgid "Addressbook"
+msgstr "Adressbuch"
+
+#: public/views/preferencesEditRealNameAttestors.html:15
+msgid "Addresses"
+msgstr "Adressen"
+
+#: public/views/preferences.html:66
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: public/views/modals/view-prosaic-contract.html:136
+msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
+msgstr "Nach der Annahme des Vertrages werden Sie aufgefordert, eine Transaktion mit dem Hash dieses Vertrages zu unterzeichnen. Dieser zweite Schritt geschieht, sobald der Anbieter Ihre Antwort erhält."
+
+#: public/views/modals/share.html:43
+msgid "After writing it down, find this transaction in"
+msgstr "Nachdem Sie diese aufgeschrieben haben, finden Sie die Transaktion in"
+
+#: public/views/disclaimer.html:37
+msgid "Agree"
+msgstr "Zustimmen"
+
+#: public/views/preferencesAlias.html:12
+msgid "Alias for"
+msgstr ""
+
+#: public/views/preferencesInformation.html:95
+msgid "All Wallet Addresses"
+msgstr "Alle Adressen dieses Wallets"
+
+#: public/views/translators.html:52
+msgid "All contributions to MCM's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
+msgstr "Beiträge zur MCM Übersetzung sind willkommen. Meldet euch bei crowdin.com an und tretet dem O<sub>byte</sub> Projekt bei"
+
+#: public/views/modals/multi-payment.html:56
+msgid "Already Paid"
+msgstr "bereits bezahlt"
+
+#: src/js/controllers/correspondentDevice.js:1381
+msgid "Already saved"
+msgstr "Bereits gespeichert"
+
+#: public/views/walletHome.html:168
+msgid "Also"
+msgstr "Auch"
+
+#: public/views/splash.html:91
+msgid "Also in the Settings menu, you will find security options such as setting a password."
+msgstr "Im Menü \"Einstellungen\" befinden sich Sicherheitsoptionen um z.B. ein Passwort festzulegen."
+
+#: public/views/includes/password.html:42
+msgid "Also, don't forget to delete your seed"
+msgstr "Vergiss nicht, deinen Seed zu löschen"
+
+#: public/views/includes/output.html:6
+#: public/views/modals/customized-amount.html:38
+#: public/views/modals/customized-amount.html:59
+#: public/views/modals/customized-amount.html:62
+#: public/views/paymentUri.html:16
+#: public/views/walletHome.html:376
+msgid "Amount"
+msgstr "Betrag"
+
+#: public/views/walletHome.html:574
+msgid "Answer"
+msgstr "Antwort"
+
+#: public/views/modals/vote.html:22
+msgid "Answer:"
+msgstr "Antwort:"
+
+#: public/views/copayers.html:19
+msgid "Approve wallet creation on other devices"
+msgstr "Genehmigen Sie die Erstellung des Wallets an einem anderem Gerät"
+
+#: src/js/controllers/backup.js:6
+msgid "Are you sure you want to delete the backup words?"
+msgstr "Sollen diese Sicherungsworte wirklich gelöscht werden?"
+
+#: src/js/controllers/copayers.js:7
+#: src/js/controllers/preferencesDelete.js:8
+msgid "Are you sure you want to delete this wallet?"
+msgstr "Soll das Wallet wirklich gelöscht werden?"
+
+#: public/views/modals/customized-amount.html:72
+msgid "Asset"
+msgstr "Guthaben"
+
+#: public/views/walletHome.html:532
+msgid "Attest profile data linked to any MCM address."
+msgstr "Bestätigen von Profildaten, die mit einer MCM Adresse verlinkt sind."
+
+#: public/views/walletHome.html:345
+msgid "Attestation"
+msgstr "Bestätigung"
+
+#: public/views/modals/accept-profile.html:34
+#: public/views/modals/choose-profile.html:41
+msgid "Attested address:"
+msgstr "Bestätigte Adresse:"
+
+#: public/views/modals/accept-profile.html:30
+#: public/views/modals/choose-profile.html:37
+msgid "Attested by:"
+msgstr "Bestätigt von:"
+
+#: public/views/preferencesGlobal.html:75
+msgid "Attestor addresses"
+msgstr "Gutachteradressen"
+
+#: public/views/preferencesWitnesses.html:11
+msgid "Auto-update the witness list from the hub"
+msgstr "Automatische Aktualisierung der Zeugenliste vom Hub"
+
+#: public/views/preferencesHub.html:16
+msgid "Auto-update the witness list from this hub"
+msgstr "Automatische Aktualisierung der Zeugenliste von diesem Hub"
+
+#: public/views/includes/available-balance.html:7
+msgid "Available Balance"
+msgstr "Verfügbarer Betrag"
+
+#: public/views/acceptCorrespondentInvitation.html:13
+#: public/views/bot.html:13
+#: public/views/correspondentDevice.html:14
+#: public/views/correspondentDevices.html:75
+#: public/views/editCorrespondentDevice.html:14
+#: public/views/includes/topbar.html:8
+#: public/views/modals/correspondentListToReSendPrivPayloads.html:6
+#: public/views/modals/destination-address.html:9
+#: public/views/modals/tx-details.html:5
+msgid "Back"
+msgstr "Zurück"
+
+#: public/views/walletHome.html:250
+msgid "Backup now"
+msgstr "Jetzt sichern"
+
+#: public/views/preferencesGlobal.html:108
+msgid "Backup wallet seed"
+msgstr "Wallet Seed Backup erstellen"
+
+#: src/js/controllers/backup.js:7
+msgid "Backup words deleted"
+msgstr "Sicherungsworte gelöscht"
+
+#: public/views/preferencesGlobal.html:98
+msgid "Backups"
+msgstr "Sicherheitskopien"
+
+#: src/js/controllers/correspondentDevice.js:1364
+msgid "Bad profile"
+msgstr "Ungültiges Profil"
+
+#: public/views/preferencesInformation.html:107
+msgid "Balance By Address"
+msgstr "Guthaben nach Adresse"
+
+#: public/views/walletHome.html:244
+msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
+msgstr "Bevor Beträge empfangen werden, wird dringend empfohlen die Wallet-Schlüssel zu sichern."
+
+#: public/views/backup.html:26
+msgid "Better yet, use multisig wallets with redundancy,"
+msgstr "Besser noch, verwenden Sie MultiSig Wallets mit Redundanz,"
+
+#: public/views/modals/bind.html:8
+#: public/views/modals/bind.html:94
+msgid "Bind payment"
+msgstr "Zahlungsmodalitäten"
+
+#: public/views/walletHome.html:437
+#: public/views/walletHome.html:450
+msgid "Bind the payment to a condition"
+msgstr "Zahlung an eine Bedingung binden"
+
+#: public/views/paymentUri.html:10
+msgid "Bitcoin URI is NOT valid!"
+msgstr "Bitcoin URI ist NICHT gültig!"
+
+#: public/views/bot.html:23
+msgid "Bot Store"
+msgstr "Bot Marktplatz"
+
+#: public/views/correspondentDevice.html:291
+msgid "Both you and {{correspondent.name}} enabled local chat history recording."
+msgstr "Sie und {{correspondent.name}} haben die lokale Chat Aufzeichnung aktiviert."
+
+#: public/views/unsupported.html:6
+msgid "Browser unsupported"
+msgstr "Der eingesetzte Browser wird nicht unterstützt"
+
+#: public/views/includes/password.html:24
+msgid "CANCEL"
+msgstr "ABBRECHEN"
+
+#: public/views/splash.html:43
+#: public/views/splash.html:85
+msgid "CONTINUE"
+msgstr "WEITER"
+
+#: public/views/modals/destination-address.html:128
+#: public/views/walletHome.html:491
+#: src/js/controllers/copayers.js:9
+#: src/js/controllers/preferencesDelete.js:10
+#: src/js/controllers/walletHome.js:131
+#: src/js/services/confirmDialog.js:9
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: public/views/editCorrespondentDevice.html:44
+msgid "Change hub:"
+msgstr "Hub ändern:"
+
+#: public/views/preferencesAlias.html:16
+msgid "Changing wallet alias only affects the local wallet name."
+msgstr "Eine Änderung des Wallet Alias wirkt sich nur auf den lokalen Wallet Name aus."
+
+#: src/js/controllers/index.js:821
+msgid "Chat"
+msgstr "Chat"
+
+#: public/views/import.html:33
+msgid "Choose File"
+msgstr "Datei auswählen"
+
+#: public/views/modals/choose-profile.html:8
+msgid "Choose private profile"
+msgstr "Privates Profil auswählen"
+
+#: public/views/modals/correspondentListToReSendPrivPayloads.html:10
+msgid "Choose the device to send to"
+msgstr "Wählen sie das Geräte für den Versand"
+
+#: public/views/modals/choose-profile.html:51
+msgid "Choose which fields to send:"
+msgstr "Wählen Sie, welche Felder gesendet werden sollen:"
+
+#: src/js/controllers/walletHome.js:502
+msgid "Claim funds"
+msgstr "Gelder beanspruchen"
+
+#: public/views/modals/claim-textcoin.html:8
+msgid "Claim funds by textcoin"
+msgstr "Gelder durch Textcoin beanspruchen"
+
+#: public/views/walletHome.html:320
+msgid "Claim funds using textcoin"
+msgstr "Gelder durch Textcoin beanspruchen"
+
+#: public/views/walletHome.html:85
+msgid "Claiming..."
+msgstr "Einfordern..."
+
+#: public/views/modals/share.html:30
+msgid "Click the button to"
+msgstr ""
+
+#: public/views/walletHome.html:513
+msgid "Click this button to create a payment file and send it to a recipient."
+msgstr "Klicken Sie auf diese Schaltfläche, um eine Zahlungsdatei zu erstellen und an einen Empfänger zu senden."
+
+#: public/views/walletHome.html:512
+msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
+msgstr "Klicken Sie diesen Button, um eine Zahlung zu erstellen, welche Sie via Privatnachricht in Chat-Apps teilen können, oder um ein Paper-Wallet zu erstellen."
+
+#: public/views/correspondentDevices.html:80
+#: public/views/includes/topbar.html:13
+#: public/views/modals/accept-profile.html:10
+#: public/views/modals/address-definition.html:30
+#: public/views/modals/address-definition.html:4
+#: public/views/modals/approveNewWitnesses.html:4
+#: public/views/modals/bind.html:4
+#: public/views/modals/choose-profile.html:4
+#: public/views/modals/choose-profile.html:70
+#: public/views/modals/claim-textcoin.html:4
+#: public/views/modals/customized-amount.html:4
+#: public/views/modals/destination-address.html:5
+#: public/views/modals/multi-payment.html:4
+#: public/views/modals/offer-contract.html:29
+#: public/views/modals/offer-prosaic-contract.html:38
+#: public/views/modals/scanner.html:4
+#: public/views/modals/select-subwallet.html:4
+#: public/views/modals/share.html:13
+#: public/views/modals/sign-message.html:4
+#: public/views/modals/signed-message.html:39
+#: public/views/modals/signed-message.html:4
+#: public/views/modals/view-prosaic-contract.html:53
+#: public/views/modals/vote.html:4
+msgid "Close"
+msgstr "Zurück"
+
+#: public/views/create.html:90
+msgid "Co-signer"
+msgstr ""
+
+#: public/views/preferencesInformation.html:73
+msgid "Co-signers"
+msgstr "Mitunterzeichner"
+
+#: public/views/includes/sidebar.html:35
+msgid "Co-signers for multisig"
+msgstr "Mitunterzeichner für MultiSig"
+
+#: public/views/preferences.html:29
+msgid "Color"
+msgstr "Farbe"
+
+#: public/views/preferencesAbout.html:18
+msgid "Commit hash"
+msgstr "Hash übertragen"
+
+#: public/views/export.html:45
+msgid "Compress the file? (Slower)"
+msgstr "Datei komprimieren? (Langsamer)"
+
+#: src/js/controllers/copayers.js:10
+#: src/js/controllers/index.js:660
+#: src/js/controllers/preferencesDelete.js:11
+#: src/js/controllers/walletHome.js:132
+#: src/js/controllers/walletHome.js:1824
+#: src/js/controllers/walletHome.js:1828
+#: src/js/services/confirmDialog.js:10
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: public/views/modals/vote.html:46
+msgid "Confirm Vote"
+msgstr "Wahl bestätigen"
+
+#: public/views/modals/multi-payment.html:8
+msgid "Confirm payment"
+msgstr "Zahlung bestätigen"
+
+#: public/views/modals/vote.html:8
+msgid "Confirm vote"
+msgstr "Wahl bestätigen"
+
+#: public/views/modals/tx-details.html:124
+msgid "Confirmed"
+msgstr "Bestätigt"
+
+#: public/views/correspondentDevices.html:90
+msgid "Contacts"
+msgstr "Kontakte"
+
+#: src/js/controllers/correspondentDevice.js:1733
+#: src/js/controllers/editCorrespondentDevice.js:120
+#: src/js/controllers/inviteCorrespondentDevice.js:32
+#: src/js/controllers/walletHome.js:403
+msgid "Copied to clipboard"
+msgstr "In die Zwischenablage kopiert"
+
+#: public/views/modals/share.html:39
+msgid "Copy"
+msgstr "Kopieren"
+
+#: public/views/recoveryFromSeed.html:42
+msgid "Correspondents and chats are not restored."
+msgstr "Chatteilnehmer und Chats werden nicht wiederhergestellt."
+
+#: public/views/modals/offer-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:111
+msgid "Cosigners"
+msgstr "Mitunterzeichner"
+
+#: src/js/controllers/walletHome.js:708
+msgid "Could not create payment proposal"
+msgstr "Zahlungsvorschlag konnte nicht erstellt werden"
+
+#: src/js/services/profileService.js:281
+msgid "Could not create using the specified extended private key"
+msgstr "Erstellung mit dem angegebenen erweiterten privaten Schlüssel nicht möglich"
+
+#: src/js/services/profileService.js:291
+msgid "Could not create using the specified extended public key"
+msgstr "Erstellung mit dem angegebenen erweiterten öffentlichen Schlüssel nicht möglich"
+
+#: src/js/services/profileService.js:274
+msgid "Could not create: Invalid wallet seed"
+msgstr "Erstellung nicht möglich: Ungültiger Wallet-Seed"
+
+#: src/js/controllers/backup.js:81
+msgid "Could not decrypt"
+msgstr "Entschlüsselung nicht möglich"
+
+#: public/views/walletHome.html:629
+msgid "Could not fetch transaction history"
+msgstr "Transaktionshistorie kann nicht abgerufen werden"
+
+#: src/js/services/profileService.js:510
+#: src/js/services/profileService.js:537
+#: src/js/services/profileService.js:559
+msgid "Could not import"
+msgstr "Import nicht möglich"
+
+#: src/js/services/profileService.js:487
+msgid "Could not import. Check input file and password"
+msgstr "Import nicht möglich. Bitte Eingabedatei und Passwort überprüfen"
+
+#: src/js/controllers/walletHome.js:708
+msgid "Could not send payment"
+msgstr "Zahlung kann nicht gesendet werden"
+
+#: src/js/controllers/correspondentDevice.js:1330
+msgid "Country"
+msgstr "Land"
+
+#: public/views/walletHome.html:44
+msgid "Create"
+msgstr "Erstellen"
+
+#: public/views/includes/sidebar.html:25
+msgid "Create a new wallet"
+msgstr "Neues Wallet erstellen"
+
+#: public/views/add.html:15
+#: public/views/create.html:175
+#: src/js/controllers/index.js:370
+msgid "Create new wallet"
+msgstr "Neues Wallet erstellen"
+
+#: public/views/create.html:171
+msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
+msgstr "{{requiredCosigners}}-von-{{totalCosigners}} Wallet erstellen"
+
+#: public/views/modals/address-definition.html:23
+msgid "Created:"
+msgstr "Erstellt:"
+
+#: public/views/splash.html:75
+msgid "Creating Profile..."
+msgstr "Profil wird erstellt..."
+
+#: public/views/create.html:20
+msgid "Creating Wallet..."
+msgstr "Wallet wird erstellt..."
+
+#: public/views/backup.html:93
+msgid "DELETE WORDS"
+msgstr "Wallet-Seed löschen"
+
+#: public/views/walletHome.html:347
+msgid "Data"
+msgstr "Daten"
+
+#: public/views/walletHome.html:344
+msgid "Data into datafeed"
+msgstr "Daten als Datenquelle"
+
+#: public/views/walletHome.html:574
+msgid "Datafeed name"
+msgstr "Name der Datenquelle"
+
+#: public/views/walletHome.html:574
+msgid "Datafeed value"
+msgstr "Wert der Datenquelle"
+
+#: public/views/modals/tx-details.html:94
+msgid "Date"
+msgstr "Datum"
+
+#: src/js/controllers/correspondentDevice.js:1329
+msgid "Date of birth"
+msgstr "Geburtsdatum"
+
+#: src/js/controllers/index.js:336
+msgid "Declined"
+msgstr "Abgelehnt"
+
+#: public/views/walletHome.html:197
+msgid "Definition"
+msgstr "Definition"
+
+#: public/views/modals/address-definition.html:8
+msgid "Definition of smart address"
+msgstr "Definition der Vertragsadresse"
+
+#: public/views/modals/multi-payment.html:25
+msgid "Definitions of addresses"
+msgstr "Definitionen der Adressen"
+
+#: public/views/preferencesAdvanced.html:31
+msgid "Delete Wallet"
+msgstr "Wallet löschen"
+
+#: public/views/preferencesDeleteWallet.html:23
+msgid "Delete wallet"
+msgstr "Wallet löschen"
+
+#: src/js/controllers/walletHome.js:1821
+msgid "Deleting the textcoin will remove the ability to claim it back or resend"
+msgstr "Durch das Löschen der Textcoin wird die Möglichkeit, sie zurückzuerhalten oder erneut zu senden, entfernt"
+
+#: public/views/preferencesInformation.html:44
+msgid "Derivation Strategy"
+msgstr "Ableitungstrategie"
+
+#: public/views/modals/customized-amount.html:29
+#: public/views/modals/multi-payment.html:17
+#: public/views/modals/tx-details.html:34
+msgid "Details"
+msgstr "Details"
+
+#: public/views/preferencesGlobal.html:79
+msgid "Device address"
+msgstr "Geräteadresse"
+
+#: public/views/preferencesDeviceName.html:12
+#: public/views/preferencesGlobal.html:17
+msgid "Device name"
+msgstr "Gerätename"
+
+#: public/views/preferencesDeviceName.html:16
+msgid "Device name is visible to other devices you communicate with."
+msgstr "Der Gerätename ist während der Kommunikation mit anderen Geräten sichtbar."
+
+#: public/views/recoveryFromSeed.html:43
+msgid "Do not clone wallets, stop using the original wallet with this seed."
+msgstr "Klonen Sie niemals Wallets, verwenden Sie das ursprüngliche Wallet nicht mit diesem Seed."
+
+#: public/views/backup.html:59
+msgid "Do not use it to clone the wallet."
+msgstr "Nicht verwenden um das Wallet klonen."
+
+#: public/views/translators.html:55
+msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
+msgstr "Wird Ihre Sprache auf Crowdin nicht angezeigt? Kontaktieren Sie den Eigentümer auf Crowdin! Wir würden Ihr Sprache gerne hinzufügen."
+
+#: public/views/inviteCorrespondentDevice.html:34
+#: public/views/modals/destination-address.html:41
+msgid "Done"
+msgstr "Fertig"
+
+#: public/views/walletHome.html:730
+msgid "Download CSV file"
+msgstr ".csv-Datei herunterladen"
+
+#: public/views/splash.html:26
+msgid "Download the entire MCM database"
+msgstr "Die gesamte MCM Datenbank herunterladen"
+
+#: public/views/modals/destination-address.html:38
+msgid "Edit"
+msgstr "Ändern"
+
+#: public/views/correspondentDevice.html:294
+msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
+msgstr "Entweder Sie oder {{correspondent.name}} hat die Aufnahme des Chatverlaufs deaktiviert. Der Verlauf wird daher für niemanden gespeichert."
+
+#: public/views/editCorrespondentDevice.html:35
+#: public/views/preferencesGlobal.html:62
+msgid "Enable push notifications"
+msgstr "Pushbenachrichtigungen aktivieren"
+
+#: public/views/acceptCorrespondentInvitation.html:47
+msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
+msgstr "Geben Sie den Verbindungs-Code des anderen Gerätes ein, oder verwenden Sie die Kamera (Symbol oben rechts), um den QR-Code zu scannen der auf dem anderen Gerät angezeigt wird."
+
+#: public/views/includes/password.html:13
+msgid "Enter your password"
+msgstr "Passwort eingeben"
+
+#: src/js/services/profileService.js:341
+#: src/js/services/profileService.js:393
+msgid "Error creating wallet"
+msgstr "Fehler beim Erstellen des Wallets"
+
+#: public/views/modals/view-prosaic-contract.html:68
+msgid "Expired on"
+msgstr "Abgelaufen am"
+
+#: public/views/export.html:51
+msgid "Export"
+msgstr "Exportieren"
+
+#: src/js/controllers/export.js:141
+#: src/js/controllers/export.js:166
+msgid "Export completed successfully"
+msgstr "Export erfolgreich abgeschlossen"
+
+#: public/views/export.html:19
+msgid "Exporting..."
+msgstr "Exportiere..."
+
+#: public/views/preferencesInformation.html:83
+msgid "Extended Public Keys"
+msgstr "Erweiterte öffentliche Schlüssel"
+
+#: public/views/export.html:25
+msgid "Failed to export"
+msgstr "Fehler beim Exportieren"
+
+#: public/views/modals/tx-details.html:101
+msgid "Fee"
+msgstr "Gebühr"
+
+#: public/views/walletHome.html:574
+msgid "Field"
+msgstr "Feld"
+
+#: src/js/controllers/export.js:88
+msgid "File saved to /MCM/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
+msgstr ""
+
+#: public/views/modals/tx-details.html:119
+msgid "Finality"
+msgstr "Endgültigkeit"
+
+#: src/js/controllers/correspondentDevice.js:1327
+msgid "First name"
+msgstr "Vorname"
+
+#: public/views/modals/tx-details.html:69
+msgid "From"
+msgstr "Von"
+
+#: public/views/editCorrespondentDevice.html:27
+msgid "Full address:"
+msgstr "Vollständige Adresse:"
+
+#: public/views/preferencesGlobal.html:126
+msgid "Full backup"
+msgstr "Vollständiges Backup"
+
+#: public/views/splash.html:92
+msgid "GET STARTED"
+msgstr "ERSTE SCHRITTE"
+
+#: src/js/controllers/walletHome.js:432
+msgid "Generate QR Code"
+msgstr "QR Code erzeugen"
+
+#: public/views/walletHome.html:306
+msgid "Generate new address"
+msgstr "Neue Adresse erzeugen"
+
+#: public/views/walletHome.html:81
+msgid "Generating .csv file..."
+msgstr ".csv Datei wird generiert..."
+
+#: public/views/modals/destination-address.html:61
+msgid "Getting address for wallet"
+msgstr ""
+
+#: public/views/includes/sidebar.html:45
+msgid "Global preferences"
+msgstr "Globale Einstellungen"
+
+#: public/views/disclaimer.html:41
+msgid "Go back"
+msgstr "Zurück"
+
+#: public/views/preferences.html:51
+msgid "Hardware wallet"
+msgstr "Hardware-Wallet"
+
+#: public/views/preferences.html:59
+msgid "Hidden assets"
+msgstr "Versteckte Guthaben"
+
+#: public/views/backup.html:45
+msgid "Hide the Wallet Seed"
+msgstr "Wallet Seed ausblenden"
+
+#: public/views/modals/share.html:43
+#: src/js/controllers/index.js:817
+msgid "History"
+msgstr "Verlauf"
+
+#: src/js/controllers/index.js:805
+msgid "Home"
+msgstr "Start"
+
+#: public/views/preferencesTor.html:14
+msgid "Host"
+msgstr "Host"
+
+#: public/views/preferencesGlobal.html:25
+msgid "Hub"
+msgstr "Hub"
+
+#: public/views/preferencesHub.html:12
+msgid "Hub URL"
+msgstr "Hub Url"
+
+#: public/views/disclaimer.html:36
+msgid "I affirm that I have read, understood, and agree with these terms."
+msgstr "Ich bestätige, dass ich die Nutzungsbedingungen gelesen habe, diese verstehe und diesen zustimme."
+
+#: public/views/includes/backup-reminder.html:14
+msgid "I created a backup"
+msgstr ""
+
+#: public/views/modals/offer-contract.html:43
+msgid "I pay"
+msgstr "Ich zahle"
+
+#: public/views/modals/bind.html:27
+msgid "I receive another payment of"
+msgstr "Ich erhalte eine weitere Zahlung über"
+
+#: src/js/controllers/correspondentDevice.js:1336
+msgid "ID expires at"
+msgstr "ID läuft ab am"
+
+#: src/js/controllers/correspondentDevice.js:1337
+msgid "ID issued at"
+msgstr "ID ausgestellt am"
+
+#: src/js/controllers/correspondentDevice.js:1333
+msgid "ID number"
+msgstr "Ausweisnummer"
+
+#: src/js/controllers/correspondentDevice.js:1335
+msgid "ID subtype"
+msgstr "ID-Subtyp"
+
+#: src/js/controllers/correspondentDevice.js:1334
+msgid "ID type"
+msgstr "Ausweistyp"
+
+#: public/views/modals/tx-details.html:157
+msgid "If any of your cosigner devices doesn't see this payment, you can"
+msgstr "Wenn eines Ihrer Mitunterzeichner-Geräte diese Zahlung nicht sieht, können Sie"
+
+#: public/views/modals/bind.html:85
+msgid "If the condition is not met, I can take this money back after"
+msgstr "Wenn die Bedingung nicht erfüllt wird, kann ich das Geld danach zurücknehmen"
+
+#: public/views/modals/offer-contract.html:67
+msgid "If the peer doesn't pay, I can take my money back after"
+msgstr "Wenn der Teilnehmer nicht zahlt, kann ich mein Geld zurücknehmen nach"
+
+#: public/views/modals/tx-details.html:148
+#: public/views/modals/tx-details.html:154
+msgid "If the recipient doesn't see your payment, you can"
+msgstr "Wenn der Empfänger Ihre Zahlung nicht sehen kann, können Sie"
+
+#: public/views/import.html:47
+msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
+msgstr "Wenn Sie dieses Backup von einem anderen Gerät übertragen haben, hören Sie sofort nach dem Erstellen des Backups auf, dieses auf dem Originalgerät zu verwenden. Klonen Sie niemals Wallets. Wenn Sie Zugriff über mehrere Geräte benötigen, verwenden Sie MultiSig."
+
+#: public/views/export.html:58
+msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
+msgstr "Wenn Sie planen, das Wallet auf einem anderen Gerät wiederherzustellen, hören Sie sofort nach der Erstellung des Backups auf, es auf dem aktuellen Gerät zu verwenden. Klonen Sie niemals Wallets. Wenn Sie Zugriff über mehrere Geräte benötigen, verwenden Sie MultiSig."
+
+#: public/views/import.html:40
+msgid "Import"
+msgstr "Importieren"
+
+#: public/views/add.html:22
+msgid "Import wallet"
+msgstr "Wallet importieren"
+
+#: public/views/import.html:19
+msgid "Importing wallet..."
+msgstr "Wallet wird importiert..."
+
+#: public/views/walletHome.html:138
+msgid "Including pending confirmation"
+msgstr "Einschließlich ausstehender Bestätigung"
+
+#: public/views/walletHome.html:648
+msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
+"          Please stand by."
+msgstr "Die anfängliche Transaktionsverlaufs-Synchronisation kann bei Wallets mit vielen Transaktionen einige Minuten in Anspruch nehmen.<br> Bitte warten."
+
+#: public/views/correspondentDevice.html:330
+msgid "Insert my address"
+msgstr "Meine Adresse einfügen"
+
+#: public/views/correspondentDevice.html:346
+msgid "Insert private profile"
+msgstr "Privates Profil einfügen"
+
+#: public/views/walletHome.html:667
+msgid "Invalid"
+msgstr "Ungültig"
+
+#: src/js/controllers/index.js:1790
+msgid "Invalid Touch ID"
+msgstr "Ungültige Touch ID"
+
+#: public/views/addCorrespondentDevice.html:15
+msgid "Invite the other device"
+msgstr "Ein anderes Gerät einladen"
+
+#: public/views/backup.html:22
+msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as titan."
+msgstr "Nur der Wallet-Seed reicht nicht aus. Allein mit dem Seed können Sie Multisig-Wallets, intelligente Verträge, Kontakte, Chat-Historie und private Assets wie Blackmcm nicht wiederherstellen."
+
+#: public/views/splash.html:36
+msgid "Keep only data relevant to you"
+msgstr "Nur für Sie relevante Daten aufbewahren"
+
+#: public/views/modals/destination-address.html:121
+msgid "Label"
+msgstr "Name"
+
+#: public/views/preferencesGlobal.html:39
+msgid "Language"
+msgstr "Sprache"
+
+#: src/js/controllers/correspondentDevice.js:1328
+msgid "Last name"
+msgstr "Nachname"
+
+#: public/views/modals/newVersionIsAvailable.html:12
+msgid "Later"
+msgstr "Später"
+
+#: src/js/controllers/disclaimer.js:13
+msgid "Loading..."
+msgstr "Lade..."
+
+#: public/views/paymentUri.html:13
+msgid "Make a payment to"
+msgstr "Sende eine Zahlung an"
+
+#: public/views/modals/approveNewWitnesses.html:29
+msgid "Maybe later"
+msgstr "Vielleicht später"
+
+#: public/views/includes/copayers.html:4
+#: public/views/modals/offer-contract.html:117
+#: public/views/modals/offer-prosaic-contract.html:51
+#: public/views/modals/view-prosaic-contract.html:70
+#: public/views/preferencesInformation.html:76
+msgid "Me"
+msgstr "Ich"
+
+#: public/views/modals/tx-details.html:113
+msgid "Merchant message"
+msgstr "Händlernachricht"
+
+#: public/views/walletHome.html:457
+msgid "Merkle proof"
+msgstr "Merkle-Nachweis"
+
+#: public/views/paymentUri.html:17
+msgid "Message"
+msgstr "Nachricht"
+
+#: public/views/modals/sign-message.html:17
+#: public/views/modals/signed-message.html:17
+msgid "Message:"
+msgstr "Nachricht:"
+
+#: public/views/correspondentDevice.html:26
+msgid "More"
+msgstr "Mehr"
+
+#: public/views/walletHome.html:666
+msgid "Moved"
+msgstr "Verschoben"
+
+#: public/views/create.html:32
+msgid "Multidevice Wallet"
+msgstr "Mehrgeräte Wallet"
+
+#: public/views/walletHome.html:258
+msgid "My MCM address"
+msgstr "Meine MCM Adresse"
+
+#: public/views/correspondentDevice.html:300
+msgid "My recording preference"
+msgstr "Meine bevorzugten Aufzeichnungseinstellungen"
+
+#: public/views/modals/destination-address.html:122
+msgid "Name of the contact"
+msgstr "Name des Kontakts"
+
+#: public/views/paymentUri.html:18
+msgid "Network"
+msgstr "Netzwerk"
+
+#: src/js/controllers/create.js:29
+msgid "New Random Seed"
+msgstr "Neuer Zufalls-Seed"
+
+#: public/views/modals/newVersionIsAvailable.html:3
+msgid "New version is available!"
+msgstr "Eine neue Version ist verfügbar!"
+
+#: public/views/modals/approveNewWitnesses.html:9
+msgid "New witnesses"
+msgstr "Neue Zeugen"
+
+#: public/views/authConfirmation.html:22
+#: src/js/controllers/index.js:659
+#: src/js/controllers/walletHome.js:1836
+msgid "No"
+msgstr "Nein"
+
+#: src/js/controllers/password.js:18
+msgid "No password given"
+msgstr "Kein Passwort vergeben"
+
+#: public/views/modals/choose-profile.html:67
+msgid "No profiles matching the requested criteria."
+msgstr "Keine Profile entsprechen den gewünschten Kriterien."
+
+#: public/views/modals/choose-profile.html:68
+msgid "No profiles yet."
+msgstr "Noch keine Profile vorhanden."
+
+#: public/views/walletHome.html:632
+msgid "No transactions yet"
+msgstr "Noch keine Transaktionen vorhanden"
+
+#: public/views/modals/claim-textcoin.html:21
+#: public/views/modals/customized-amount.html:51
+#: public/views/modals/destination-address.html:113
+#: public/views/walletHome.html:368
+#: public/views/walletHome.html:405
+#: public/views/walletHome.html:414
+#: public/views/walletHome.html:551
+msgid "Not valid"
+msgstr "Nicht gültig"
+
+#: public/views/includes/output.html:12
+#: public/views/modals/tx-details.html:109
+#: public/views/modals/tx-details.html:84
+#: public/views/walletHome.html:468
+#: public/views/walletHome.html:695
+msgid "Note"
+msgstr "Notiz"
+
+#: src/js/controllers/export.js:88
+msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
+msgstr "Nun müssen Sie diese Datei irgendwo hinschicken, um sie später wiederherzustellen (\"In Dateien speichern\", an sich selbst mit Hilfe von Chat-Apps senden, usw.)"
+
+#: public/index.html:12
+msgid "MCM &mdash; smart payments"
+msgstr "MCM &mdash; intelligente Zahlungen"
+
+#: public/views/modals/destination-address.html:120
+msgid "MCM address"
+msgstr "MCM Adresse"
+
+#: public/views/modals/offer-prosaic-contract.html:88
+msgid "Offer Contract"
+msgstr "Vertrag anbieten"
+
+#: public/views/modals/offer-contract.html:33
+#: src/js/services/correspondentListService.js:129
+msgid "Offer a contract"
+msgstr "Einen Vertrag anbieten"
+
+#: public/views/modals/offer-prosaic-contract.html:72
+msgid "Offer is valid for"
+msgstr "Angebot ist gültig für"
+
+#: public/views/modals/offer-prosaic-contract.html:42
+#: src/js/services/correspondentListService.js:129
+msgid "Offer prosaic contract"
+msgstr "Prosaischen Vertrag anbieten"
+
+#: public/views/backup.html:87
+msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
+msgstr "Sobald Sie Ihren Wallet-Seed kopiert haben, wird empfohlen, diesen vom Gerät zu löschen."
+
+#: public/views/recoveryFromSeed.html:41
+msgid "Only single-sig wallets can be recovered."
+msgstr "Nur einfach signierte Wallets können wiederhergestellt werden."
+
+#: public/views/bot.html:35
+msgid "Open chat"
+msgstr "Öffne Chat"
+
+#: public/views/walletHome.html:574
+msgid "Options for answering"
+msgstr "Optionen für die Beantwortung"
+
+#: public/views/modals/share.html:39
+msgid "Or copy"
+msgstr "Oder kopieren Sie"
+
+#: public/views/acceptCorrespondentInvitation.html:54
+msgid "Pair"
+msgstr "Verbinden"
+
+#: public/views/includes/sidebar.html:33
+msgid "Paired devices"
+msgstr "Verbundene Geräte"
+
+#: public/views/acceptCorrespondentInvitation.html:49
+msgid "Pairing code"
+msgstr "Verknüpfungscode"
+
+#: public/views/paperWallet.html:79
+msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
+msgstr "Papier-Wallets sind Textcoins. Scannen Sie den QR Code der Papier-Wallet mit dem Kamerasymbol in der oberen rechten Ecke ein oder geben sie die 12 Wörter des Textcoin manuell über die Registerkarte \"Empfangen\" ein."
+
+#: public/views/paperWallet.html:39
+msgid "Passphrase"
+msgstr "Passwort"
+
+#: src/js/services/profileService.js:675
+msgid "Password needed"
+msgstr "Passwort erforderlich"
+
+#: src/js/controllers/password.js:36
+msgid "Passwords do not match"
+msgstr "Passwörter stimmen nicht überein"
+
+#: public/views/paperWallet.html:31
+msgid "Paste your paper wallet private key here"
+msgstr "Privaten Schlüssel des Paper-Wallets hier einfügen"
+
+#: public/views/modals/offer-contract.html:138
+msgid "Pay and offer"
+msgstr "Zahlen und Anbieten"
+
+#: src/js/services/correspondentListService.js:129
+msgid "Pay to this address"
+msgstr "An diese Adresse zahlen"
+
+#: public/views/modals/tx-status.html:28
+msgid "Payment Accepted"
+msgstr "Zahlung akzeptiert"
+
+#: public/views/modals/tx-status.html:16
+msgid "Payment Proposal Created"
+msgstr "Zahlungsvorschlag erstellt"
+
+#: public/views/walletHome.html:214
+msgid "Payment Proposals"
+msgstr "Zahlungsvorschläge"
+
+#: public/views/modals/tx-status.html:38
+msgid "Payment Rejected"
+msgstr "Zahlung abgelehnt"
+
+#: public/views/modals/tx-status.html:5
+msgid "Payment Sent"
+msgstr "Zahlung gesendet"
+
+#: public/views/modals/offer-prosaic-contract.html:58
+#: public/views/modals/view-prosaic-contract.html:77
+msgid "Peer"
+msgstr "Teilnehmer"
+
+#: public/views/modals/address-definition.html:19
+msgid "Peer:"
+msgstr "Teilnehmer:"
+
+#: public/views/preferencesDeleteWallet.html:22
+msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
+msgstr "Wallet dauerhaft löschen. DIESE AKTION KANN NICHT RÜCKGÄNGIG GEMACHT WERDEN"
+
+#: src/js/controllers/correspondentDevice.js:1331
+msgid "Personal code"
+msgstr "Persönlicher Code"
+
+#: public/views/create.html:28
+msgid "Plain Wallet"
+msgstr "Standard Wallet"
+
+#: src/js/controllers/index.js:275
+msgid "Please approve contract fees deposit on the other devices."
+msgstr "Bitte bestätigen Sie die Bezahlung der Vertragsgebühren auf den anderen Geräten."
+
+#: src/js/controllers/index.js:280
+msgid "Please approve posting prosaic contract hash on the other devices."
+msgstr "Bitte bestätigen Sie die Veröffentlichung des prosaischen Vertragshashes auf den anderen Geräten."
+
+#: public/views/splash.html:20
+msgid "Please choose how much data to store in your wallet"
+msgstr "Bitte wählen Sie, welche Menge an Daten Sie in Ihrem Wallet speichern möchten"
+
+#: src/js/controllers/create.js:99
+msgid "Please enter the required fields"
+msgstr "Bitte füllen Sie die benötigten Felder aus"
+
+#: public/views/splash.html:82
+msgid "Please name this device"
+msgstr "Bitte geben Sie dem Gerät einen Namen"
+
+#: src/js/controllers/correspondentDevice.js:150
+msgid "Please switch to a single-address wallet and you probably need to insert your address again."
+msgstr "Bitte wechseln Sie zu einem Single-Address-Wallet. Die Eingabe Ihrer Adresse ist wahrscheinlich erneut erforderlich."
+
+#: public/views/includes/backup-reminder.html:8
+msgid "Please visit the Backups section in"
+msgstr ""
+
+#: public/views/walletHome.html:348
+msgid "Poll"
+msgstr "Umfrage"
+
+#: public/views/preferencesTor.html:16
+msgid "Port"
+msgstr "Port"
+
+#: public/views/walletHome.html:541
+msgid "Post a poll into MCM network that users can vote on with Poll bot."
+msgstr "Posten Sie eine Umfrage im MCM Netzwerk, in der die Benutzer mit einem Umfrage-Bot abstimmen können."
+
+#: public/views/walletHome.html:538
+msgid "Post arbitrary key-value pairs of data into MCM network."
+msgstr "Senden Sie beliebige Schlüssel-Wert-Paare von Daten in das MCM-Netzwerk."
+
+#: public/views/walletHome.html:529
+msgid "Post values into datafeeds manually, be an oracle."
+msgstr "Manuelles Senden von Werten in Daten-Feeds, seien Sie ein Orakel."
+
+#: public/views/walletHome.html:535
+msgid "Post your profile data, anything you want to say about yourself."
+msgstr "Senden Sie Ihre Profildaten, alles was Sie über sich selbst sagen möchten."
+
+#: public/views/walletHome.html:193
+#: public/views/walletHome.html:47
+msgid "Preferences"
+msgstr "Einstellungen"
+
+#: src/js/services/backButtonService.js:73
+msgid "Press again to exit"
+msgstr "Zum Beenden erneut drücken"
+
+#: public/views/recoveryFromSeed.html:40
+msgid "Private assets (such as titan) and smart contracts are not recovered."
+msgstr "Private Assets (wie z.B. Blackmcm) und intelligente Verträge werden nicht wiederhergestellt."
+
+#: src/js/controllers/walletHome.js:1890
+#: src/js/controllers/walletHome.js:1966
+msgid "Private payloads sent"
+msgstr "Private Transaktionen gesendet"
+
+#: public/views/modals/accept-profile.html:14
+msgid "Private profile"
+msgstr "Privates Profil"
+
+#: public/views/walletHome.html:346
+msgid "Profile"
+msgstr "Profil"
+
+#: public/views/walletHome.html:574
+msgid "Profile field"
+msgstr "Profilfeld"
+
+#: public/views/walletHome.html:574
+msgid "Profile field value"
+msgstr "Profilfeld-Wert"
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "Proof of contract signing"
+msgstr "Nachweis der Vertragsunterzeichnung"
+
+#: public/views/modals/view-prosaic-contract.html:57
+msgid "Prosaic contract"
+msgstr "Prosaischer Vertrag"
+
+#: public/views/modals/customized-amount.html:16
+msgid "QR Code"
+msgstr "QR-Code"
+
+#: public/views/modals/scanner.html:8
+msgid "QR-Scanner"
+msgstr "QR-Scanner"
+
+#: public/views/walletHome.html:561
+msgid "Question to be voted on"
+msgstr "Frage zur Abstimmung"
+
+#: public/views/modals/vote.html:17
+msgid "Question:"
+msgstr "Frage:"
+
+#: public/views/preferencesAttestorAddresses.html:16
+msgid "Real name attestors"
+msgstr ""
+
+#: src/js/controllers/index.js:809
+msgid "Receive"
+msgstr "Empfangen"
+
+#: public/views/walletHome.html:663
+msgid "Received"
+msgstr "Empfangen"
+
+#: public/views/includes/transaction.html:15
+#: public/views/modals/tx-details.html:61
+msgid "Recipients"
+msgstr "Empfänger"
+
+#: public/views/walletHome.html:60
+msgid "Reconnecting to Wallet Service..."
+msgstr "Verbindung zum Wallet-Dienst wird wieder hergestellt..."
+
+#: public/views/recoveryFromSeed.html:34
+msgid "Recover"
+msgstr "Wiederherstellen"
+
+#: public/views/preferencesGlobal.html:117
+msgid "Recovery from seed"
+msgstr "Wiederherstellen per Wallet-Seed"
+
+#: public/views/walletHome.html:80
+msgid "Recreating Wallet..."
+msgstr "Wallet wiederherstellen..."
+
+#: src/js/controllers/index.js:288
+msgid "Refused"
+msgstr "Abgelehnt"
+
+#: public/views/preferencesAbout.html:8
+msgid "Release Information"
+msgstr "Informationen veröffentlichen"
+
+#: public/views/includes/backup-reminder.html:11
+msgid "Remind Later"
+msgstr ""
+
+#: public/views/modals/destination-address.html:85
+msgid "Remove"
+msgstr "Entfernen"
+
+#: public/views/correspondentDevices.html:159
+msgid "Remove a device"
+msgstr "Gerät entfernen"
+
+#: public/views/editCorrespondentDevice.html:42
+msgid "Rename:"
+msgstr "Umbenennen:"
+
+#: public/views/export.html:40
+#: public/views/includes/password.html:10
+msgid "Repeat password"
+msgstr "Passwort wiederholen"
+
+#: public/views/export.html:37
+msgid "Repeat the password"
+msgstr "Passwort wiederholen"
+
+#: public/views/modals/approveNewWitnesses.html:23
+msgid "Replace"
+msgstr "Ersetzen"
+
+#: public/views/preferencesGlobal.html:90
+msgid "Request Password"
+msgstr "Kennwortabfrage"
+
+#: public/views/modals/customized-amount.html:8
+#: public/views/walletHome.html:315
+msgid "Request a specific amount"
+msgstr "Zahlungsanfrage"
+
+#: public/views/correspondentDevice.html:339
+msgid "Request payment"
+msgstr "Zahlung anfordern"
+
+#: public/views/create.html:74
+msgid "Required number of signatures"
+msgstr "Erforderliche Anzahl an Signaturen"
+
+#: public/views/preferencesGlobal.html:135
+msgid "Restore from full backup"
+msgstr "Wiederherstellen aus dem Komplett-Backup"
+
+#: public/views/splash.html:64
+msgid "Retrying..."
+msgstr "Neuer Versuch..."
+
+#: public/views/modals/view-prosaic-contract.html:144
+msgid "Revoke"
+msgstr "Widerrufen"
+
+#: public/views/includes/password.html:32
+msgid "SET"
+msgstr "EINRICHTEN"
+
+#: public/views/editCorrespondentDevice.html:50
+#: public/views/modals/destination-address.html:133
+#: public/views/preferencesAlias.html:14
+#: public/views/preferencesDeviceName.html:14
+#: public/views/preferencesEditAttestorAddress.html:14
+#: public/views/preferencesEditRealNameAttestors.html:29
+#: public/views/preferencesEditWitness.html:15
+#: public/views/preferencesEmail.html:35
+#: public/views/preferencesHub.html:18
+#: public/views/preferencesTor.html:19
+msgid "Save"
+msgstr "Speichern"
+
+#: public/views/preferencesEmail.html:21
+msgid "Saving preferences..."
+msgstr "Einstellungen werden gespeichert..."
+
+#: public/views/preferences.html:76
+msgid "Scan Fingerprint/FaceID"
+msgstr "Fingerabdruck/FaceID scannen"
+
+#: public/views/walletHome.html:121
+msgid "Scan status finished with error"
+msgstr "Überprüfung wurde mit Fehlern beendet"
+
+#: public/views/inviteCorrespondentDevice.html:21
+msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
+msgstr "Scannen Sie den obigen QR-Code mit Ihrem anderen Gerät oder senden Sie den Verbindungs-Code an das andere Gerät:"
+
+#: src/js/controllers/index.js:1783
+msgid "Scan your fingerprint please"
+msgstr "Scannen Sie bitte Ihren Fingerabdruck"
+
+#: public/views/walletHome.html:79
+msgid "Scanning Wallet funds..."
+msgstr "Prüfe Wallet-Beträge..."
+
+#: public/views/recoveryFromSeed.html:19
+msgid "Scanning for addresses..."
+msgstr "Suche nach Adressen..."
+
+#: public/views/paymentUri.html:30
+msgid "Select a wallet"
+msgstr "Wallet wählen"
+
+#: public/views/modals/select-subwallet.html:8
+msgid "Select subwallet"
+msgstr "Sub-Wallet wählen"
+
+#: public/views/preferencesHiddenAssets.html:29
+msgid "Select the assets to hide in the wallet"
+msgstr "Wählen Sie die Guthaben aus, die in der Wallet versteckt werden sollen"
+
+#: public/views/authConfirmation.html:10
+msgid "Select your identity"
+msgstr "Wählen Sie Ihre Identität"
+
+#: public/views/includes/transaction.html:10
+#: public/views/walletHome.html:494
+#: public/views/walletHome.html:593
+#: src/js/controllers/index.js:813
+msgid "Send"
+msgstr "Senden"
+
+#: public/views/modals/multi-payment.html:53
+msgid "Send Payment"
+msgstr "Zahlung senden"
+
+#: public/views/preferencesInformation.html:125
+msgid "Send addresses by email"
+msgstr "Adresse per Email senden"
+
+#: public/views/walletHome.html:378
+msgid "Send all"
+msgstr "Alles senden"
+
+#: public/views/preferencesLogs.html:15
+msgid "Send by email"
+msgstr "Per E-Mail senden"
+
+#: public/views/modals/choose-profile.html:62
+msgid "Send this profile"
+msgstr "Dieses Profil senden"
+
+#: public/views/walletHome.html:84
+msgid "Sending..."
+msgstr "Sende..."
+
+#: public/views/walletHome.html:665
+msgid "Sent"
+msgstr "Gesendet"
+
+#: public/views/preferencesAbout.html:38
+msgid "Session log"
+msgstr "Sitzungsprotokoll"
+
+#: public/views/export.html:30
+msgid "Set up a Password"
+msgstr "Passwort einrichten"
+
+#: public/views/includes/password.html:9
+msgid "Set up a password"
+msgstr "Passwort einrichten"
+
+#: public/views/includes/backup-reminder.html:8
+#: public/views/includes/sidebar.html:43
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: public/views/modals/share.html:17
+msgid "Share"
+msgstr "Teilen"
+
+#: public/views/modals/customized-amount.html:24
+#: public/views/walletHome.html:293
+msgid "Share address"
+msgstr "Adresse teilen"
+
+#: public/views/inviteCorrespondentDevice.html:27
+msgid "Share the code"
+msgstr "Den Code teilen"
+
+#: public/views/walletHome.html:298
+msgid "Share this wallet address to receive payments."
+msgstr "Teilen Sie diese Adresse, um Zahlungen zu erhalten."
+
+#: public/views/walletHome.html:393
+#: public/views/walletHome.html:514
+msgid "Share via message"
+msgstr "Teilen via Nachricht"
+
+#: public/views/walletHome.html:722
+msgid "Show all"
+msgstr "Zeige alles"
+
+#: public/views/backup.html:44
+msgid "Show the Wallet Seed Anyway"
+msgstr "Wallet-Seed trotzdem anzeigen"
+
+#: public/views/modals/sign-message.html:46
+msgid "Sign"
+msgstr "Unterzeichnen"
+
+#: public/views/modals/sign-message.html:8
+#: src/js/controllers/index.js:467
+msgid "Sign message"
+msgstr "Nachricht unterzeichnen"
+
+#: public/views/editCorrespondentDevice.html:57
+msgid "Signed contracts:"
+msgstr "Unterschriebene Verträge:"
+
+#: public/views/modals/signed-message.html:8
+msgid "Signed message"
+msgstr "Unterzeichnete Nachricht"
+
+#: public/views/modals/sign-message.html:22
+#: public/views/modals/signed-message.html:22
+msgid "Signing address:"
+msgstr "Unterzeichnungs-Adresse:"
+
+#: public/views/create.html:56
+#: public/views/preferences.html:36
+msgid "Single address wallet"
+msgstr "Single-Address-Wallet"
+
+#: public/views/create.html:59
+#: public/views/preferences.html:38
+msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
+msgstr "Single-Address-Wallets werden keine neue Adressen für jede Transaktion erzeugen, Wechselbeträge werden immer zu dieser alleinigen Adresse gesendet."
+
+#: src/js/services/profileService.js:335
+msgid "Small Expenses Wallet"
+msgstr "Standard-Wallet"
+
+#: src/js/controllers/create.js:32
+msgid "Specify Seed..."
+msgstr "Seed festlegen..."
+
+#: public/views/preferencesGlobal.html:94
+msgid "Spend unconfirmed funds"
+msgstr "Nicht bestätigte Mittel ausgeben"
+
+#: public/views/preferences.html:70
+#: public/views/preferencesGlobal.html:86
+msgid "Spending Restrictions"
+msgstr "Ausgabebeschränkungen"
+
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "Status"
+msgstr "Status"
+
+#: public/views/preferencesGlobal.html:104
+msgid "Still not done"
+msgstr "Noch nicht erledigt"
+
+#: src/js/controllers/correspondentDevice.js:1383
+msgid "Store"
+msgstr "Shop"
+
+#: src/js/controllers/copayers.js:76
+#: src/js/controllers/export.js:141
+#: src/js/controllers/export.js:166
+#: src/js/controllers/index.js:325
+#: src/js/controllers/index.js:353
+#: src/js/controllers/preferencesDelete.js:56
+#: src/js/controllers/walletHome.js:1890
+#: src/js/controllers/walletHome.js:1966
+msgid "Success"
+msgstr "Erfolgreich"
+
+#: public/views/preferencesAdvanced.html:19
+msgid "Sweep paper wallet"
+msgstr "Paper-Wallet löschen"
+
+#: public/views/walletHome.html:83
+msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
+msgstr "Synchronisiere... {{index.count_unhandled_private_payments}} private Zahlungen ausstehend"
+
+#: public/views/walletHome.html:82
+msgid "Syncing... {{index.syncProgress}}"
+msgstr "Synchronisiere... {{index.syncProgress}}"
+
+#: public/views/preferencesGlobal.html:32
+msgid "TOR"
+msgstr "TOR"
+
+#: public/views/preferencesTor.html:12
+msgid "TOR enabled"
+msgstr "TOR aktiviert"
+
+#: public/views/walletHome.html:117
+#: public/views/walletHome.html:122
+#: public/views/walletHome.html:630
+msgid "Tap to retry"
+msgstr "Zum Wiederholen antippen"
+
+#: public/views/disclaimer.html:12
+#: public/views/preferencesAbout.html:30
+msgid "Terms of Use"
+msgstr "Nutzungsbedingungen"
+
+#: public/views/modals/offer-prosaic-contract.html:69
+#: public/views/modals/view-prosaic-contract.html:88
+msgid "Text"
+msgstr "Text"
+
+#: public/views/correspondentDevice.html:350
+msgid "Text message to"
+msgstr "Textnachricht an"
+
+#: public/views/modals/claim-textcoin.html:29
+msgid "Textcoin"
+msgstr "Textcoin"
+
+#: public/views/modals/accept-profile.html:38
+msgid "The attested address belongs to:"
+msgstr "Die bestätigte Adresse gehört zu:"
+
+#: public/views/preferencesHub.html:20
+msgid "The hub for receiving messages from other devices."
+msgstr "Hub, um Nachrichten von anderen Geräten zu empfangen."
+
+#: public/views/modals/approveNewWitnesses.html:11
+msgid "The hub suggests replacing the following witnesses:"
+msgstr "Der Hub möchte die folgenden Zeugen ersetzen:"
+
+#: public/views/modals/share.html:27
+msgid "The money is stored on this textcoin:"
+msgstr "Das Geld ist auf dieser Textcoin gespeichert:"
+
+#: public/views/modals/bind.html:23
+msgid "The peer receives this payment if"
+msgstr "Der Teilnehmer erhält die Zahlung wenn"
+
+#: public/views/modals/signed-message.html:28
+msgid "The signature is"
+msgstr "Die Unterschrift ist"
+
+#: public/views/includes/backup-reminder.html:7
+msgid "The total amount on your wallet is"
+msgstr ""
+
+#: public/views/modals/vote.html:52
+msgid "The vote will be signed by all your funded addresses"
+msgstr "Die Abstimmung wird von allen Ihren finanzierten Adressen bestätigt"
+
+#: src/js/controllers/copayers.js:76
+#: src/js/controllers/preferencesDelete.js:56
+msgid "The wallet \"{{walletName}}\" was deleted"
+msgstr "Das Wallet \"{{walletName}}\" wurde gelöscht"
+
+#: public/views/splash.html:38
+msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
+msgstr "Der Wallet-Anbieter wird in der Lage sein einige Ihrer Guthaben und Transaktionen zu sehen. Sie können jedoch sofort mit einem voll funktionsfähigen Wallet starten."
+
+#: public/views/correspondentDevice.html:305
+msgid "Their recording preference"
+msgstr "Ihre Aufnahme-Einstellung"
+
+#: public/views/paymentUri.html:23
+msgid "There are no wallets to make this payment"
+msgstr "Es gibt keine Wallets, um diese Zahlung auszuführen"
+
+#: public/views/walletHome.html:297
+msgid "This address is shared with {{index.shared_address_cosigners}}."
+msgstr "Diese Adresse wird mit {{index.shared_address_cosigners}} geteilt."
+
+#: public/views/splash.html:21
+msgid "This choice cannot be changed later"
+msgstr "Diese Auswahl kann später nicht mehr geändert werden"
+
+#: public/views/splash.html:28
+msgid "This option is better for privacy but will take  several gigamcm of storage and the initial sync will take several days.  CPU load will be high during sync."
+msgstr "Diese Option ist für Ihre Privatsphäre optimiert, benötigt jedoch mehrere Gigamcm an Speicherplatz. Die Synchronisation kann mehrere Tage dauern und verursacht eine hohe CPU Auslastung."
+
+#: public/views/walletHome.html:438
+msgid "This payment is bound to a condition"
+msgstr "Diese Zahlung ist an eine Bedingung gebunden"
+
+#: src/js/controllers/correspondentDevice.js:150
+msgid "This payment must be paid only from single-address wallet"
+msgstr "Diese Zahlung darf nur von einem Single-Address-Wallet gemacht werden"
+
+#: public/views/modals/tx-details.html:89
+msgid "This transaction has become invalid; possibly due to a double spend attempt."
+msgstr "Diese Transaktion ist ungültig geworden; dies kann durch eine versuchte Doppelzahlung verursacht worden sein."
+
+#: public/views/preferences.html:42
+msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
+msgstr "Diese Wallet kann nicht in ein Multi-Address-Wallet konvertiert werden, da es bereits über Bestätigungen verfügt"
+
+#: public/views/preferences.html:41
+msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
+msgstr "Dieses Wallet kann nicht in ein Multi-Address-Wallet konvertiert werden, da es Multidevice-Wallet ist"
+
+#: public/views/preferences.html:39
+msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
+msgstr "Diese Wallet kann nicht zu einem Single-Address-Wallet konvertiert werden, da es schon mehrere Addressen enthält"
+
+#: public/views/preferences.html:40
+msgid "This wallet cannot be converted to single address wallet as it is multidevice"
+msgstr "Diese Wallet kann nicht in ein Single-Address-Wallet konvertiert werden, da es ein Multidevice Wallet ist"
+
+#: public/views/import.html:46
+#: public/views/recoveryFromSeed.html:39
+msgid "This will permanently delete all your existing wallets!"
+msgstr "Hiermit werden all Ihre existierenden Wallets sofort gelöscht!"
+
+#: public/views/modals/offer-prosaic-contract.html:66
+#: public/views/modals/view-prosaic-contract.html:85
+msgid "Title of contract"
+msgstr "Vertragstitel"
+
+#: public/views/includes/output.html:2
+#: public/views/includes/transaction.html:19
+#: public/views/modals/tx-details.html:39
+#: public/views/modals/tx-details.html:74
+#: public/views/walletHome.html:697
+#: src/js/controllers/index.js:1595
+msgid "To"
+msgstr "An"
+
+#: public/views/walletHome.html:400
+msgid "To MCM address"
+msgstr "An MCM Adresse"
+
+#: public/views/backup.html:24
+msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
+msgstr "Um Ihre Daten später wiederherstellen zu können, benötigen Sie ein komplettes Backup (Benutzen Sie dazu die entsprechende Option im Menü)"
+
+#: public/views/walletHome.html:604
+msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
+msgstr "Um beliebige Daten in das O<sub>byte</sub> Netzwerk zu senden, schalten Sie dieses Wallet auf Einzeladdresse um oder erstellen Sie eine."
+
+#: public/views/walletHome.html:447
+msgid "To bind the payment to a condition, please click the peer's address in chat"
+msgstr "Um die Zahlung an eine Bedingung zu knüpfen, klicken Sie auf die Teilnehmer Adresse im Chatfenster"
+
+#: src/js/controllers/index.js:1598
+msgid "To email"
+msgstr "An E-Mail"
+
+#: public/views/walletHome.html:299
+msgid "To protect your privacy, new addresses are generated automatically once you use them."
+msgstr "Um Ihre Privatsphäre zu schützen, werden automatisch neue Adressen generiert, sobald Sie eine verwenden."
+
+#: public/views/modals/view-prosaic-contract.html:95
+msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
+msgstr "Um die Integrität des Vertrages zu überprüfen, wird ein SHA256 Hash aus drei verbundenen Komponenten berechnet: sha256(Titel+Text+Erstellungsdatum) und im BASE64-Format kodiert. Nach der Annahme des Vertrages wird eine Einheit mit dem Hash in die DAG gepostet. Sie können überprüfen, dass der Vertragstext nicht geändert wurde, indem Sie den Hash im DAG mit dem Hash dieses Vertrages vergleichen."
+
+#: public/views/walletHome.html:222
+msgid "Total Locked Balance"
+msgstr "Ingesamt gesperrter Gesamtsaldo"
+
+#: public/views/walletHome.html:377
+msgid "Total amount"
+msgstr "Gesamtbetrag"
+
+#: public/views/create.html:66
+msgid "Total number of co-signers"
+msgstr "Gesamtanzahl der Mitunterzeichner"
+
+#: public/views/modals/tx-details.html:9
+msgid "Transaction"
+msgstr "Transaktion"
+
+#: src/js/controllers/index.js:270
+msgid "Transaction created.\n"
+"Please approve it on the other devices."
+msgstr "Transaktion erstellt.\n"
+"Bitte genehmigen Sie sie auf den anderen Geräten."
+
+#: public/views/walletHome.html:654
+msgid "Transactions<br> Downloaded"
+msgstr "Transaktionen<br> heruntergeladen"
+
+#: public/views/translators.html:8
+msgid "Translation Credits"
+msgstr "Danksagung an die Übersetzer"
+
+#: public/views/preferencesAbout.html:34
+msgid "Translators"
+msgstr "Übersetzer"
+
+#: public/views/preferencesGlobal.html:67
+msgid "Trusted nodes"
+msgstr "Vertrauenswürdige Knoten"
+
+#: src/js/controllers/correspondentDevice.js:1332
+msgid "US state"
+msgstr "US-Bundesstaat"
+
+#: src/js/controllers/walletHome.js:854
+msgid "Unable to send transaction proposal"
+msgstr "Transaktionsvorschlag kann nicht gesendet werden"
+
+#: public/views/modals/tx-details.html:121
+#: public/views/walletHome.html:685
+msgid "Unconfirmed"
+msgstr "Unbestätigt"
+
+#: public/views/preferencesGlobal.html:53
+msgid "Unit for titan"
+msgstr "Einheit für titan"
+
+#: public/views/preferencesGlobal.html:46
+msgid "Unit for mcm"
+msgstr "Einheit für mcm"
+
+#: public/views/walletHome.html:215
+msgid "Unsent transactions"
+msgstr "Nicht gesendete Transaktionen"
+
+#: public/views/walletHome.html:73
+msgid "Updating Wallet..."
+msgstr "Aktualisiere Wallet..."
+
+#: public/views/modals/newVersionIsAvailable.html:6
+msgid "Upgrade to {{version}}"
+msgstr "Aktualisieren Sie auf Version {{version}}"
+
+#: public/views/includes/upgrading_db.html:8
+msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
+msgstr "Aktualisiere die Datenbank, bitte warten. Dieser Vorgang kann mehrere Minuten dauern."
+
+#: public/views/modals/view-prosaic-contract.html:67
+msgid "Valid till"
+msgstr "Gültig bis"
+
+#: public/views/walletHome.html:574
+msgid "Value"
+msgstr "Wert"
+
+#: public/views/walletHome.html:574
+msgid "Values"
+msgstr "Werte"
+
+#: src/js/controllers/correspondentDevice.js:1356
+msgid "Verifying the profile..."
+msgstr "Verifiziere das Profil..."
+
+#: public/views/preferencesAbout.html:12
+msgid "Version"
+msgstr "Version"
+
+#: public/views/export.html:56
+msgid "WARNING:"
+msgstr "WARNUNG:"
+
+#: public/views/walletHome.html:240
+msgid "WARNING: Backup needed"
+msgstr "WARNUNG: Backup notwendig"
+
+#: public/views/backup.html:77
+msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
+msgstr "WARNUNG: Dieser Seed wurde mit einer Passphrase erzeugt. Um das Wallet wiederherzustellen, wird die Gedächtnisstütze und die Passphrase benötigt."
+
+#: public/views/import.html:44
+#: public/views/recoveryFromSeed.html:37
+msgid "WARNINGS:"
+msgstr "WARNUNGEN:"
+
+#: public/views/splash.html:53
+msgid "WELCOME TO O<sub>byte</sub>"
+msgstr "Willkommen bei, O<sub>Byte</sub>"
+
+#: public/views/copayers.html:24
+msgid "Waiting for co-signers"
+msgstr "Warten auf Mitunterzeichner"
+
+#: public/views/copayers.html:33
+msgid "Waiting..."
+msgstr "Warte..."
+
+#: public/views/preferencesDeleteWallet.html:12
+msgid "Wallet"
+msgstr "Wallet"
+
+#: public/views/preferences.html:20
+msgid "Wallet Alias"
+msgstr "Alias"
+
+#: public/views/preferencesInformation.html:27
+msgid "Wallet Configuration (m-n)"
+msgstr "Wallet-Konfiguration (m-n)"
+
+#: public/views/preferencesInformation.html:20
+msgid "Wallet Id"
+msgstr "Wallet-Id"
+
+#: public/views/preferencesAdvanced.html:14
+#: public/views/preferencesInformation.html:8
+msgid "Wallet Information"
+msgstr "Wallet-Informationen"
+
+#: public/views/preferencesInformation.html:12
+msgid "Wallet Name (at creation)"
+msgstr "Wallet-Name (bei der Erstellung)"
+
+#: src/js/services/profileService.js:456
+msgid "Wallet already in MCM:"
+msgstr "Wallet bereits in MCM:"
+
+#: public/views/create.html:48
+msgid "Wallet name"
+msgstr "Wallet-Name"
+
+#: public/views/backup.html:34
+msgid "Wallet seed not available."
+msgstr "Wallet-Seed nicht verfügbar."
+
+#: public/views/modals/destination-address.html:15
+#: public/views/modals/destination-address.html:29
+msgid "Wallets"
+msgstr "Wallets"
+
+#: public/views/preferencesDeleteWallet.html:15
+msgid "Warning!"
+msgstr "Warnung!"
+
+#: public/views/modals/tx-details.html:132
+msgid "Was claimed?"
+msgstr "Wurde beansprucht?"
+
+#: public/views/walletHome.html:340
+msgid "What to send"
+msgstr "Was soll gesendet werden"
+
+#: public/views/modals/multi-payment.html:35
+#: public/views/modals/offer-contract.html:112
+#: public/views/modals/sign-message.html:28
+#: public/views/modals/vote.html:28
+#: public/views/walletHome.html:483
+#: public/views/walletHome.html:507
+#: public/views/walletHome.html:585
+msgid "Who signs:"
+msgstr "Signiert von:"
+
+#: public/views/preferencesEditWitness.html:13
+msgid "Witness address"
+msgstr "Zeugen-Adresse"
+
+#: public/views/preferencesGlobal.html:71
+msgid "Witnesses"
+msgstr "Zeugen"
+
+#: public/views/modals/share.html:43
+msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
+msgstr "Notieren Sie sich diese Textcoin auf Papier und bewahren Sie diese sicher auf. Sie können diese in Zukunft jederzeit zurückfordern unter Verwendung von"
+
+#: public/views/backup.html:56
+msgid "Write it down and keep it somewhere safe."
+msgstr "Aufschreiben und an einem sicheren Ort aufbewahren."
+
+#: src/js/services/profileService.js:685
+msgid "Wrong password"
+msgstr "Falsches Passwort"
+
+#: public/views/authConfirmation.html:17
+#: src/js/controllers/index.js:658
+msgid "Yes"
+msgstr "Ja"
+
+#: public/views/modals/tx-details.html:151
+msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
+msgstr "Wenn Sie diese bereits an anderer Stelle (z. B. als Paper-Wallet) gesichert haben, können Sie die Textcoin aus Ihrem Wallet löschen:"
+
+#: public/views/modals/bind.html:99
+msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
+msgstr "Sie können Ihre Transaktion nicht an eine Rückzahlungsbedingung binden, da Sie ein Single-Address-Wallet benutzen. Verwenden Sie ein Standard-Wallet, um eine Transaktion an eine Rückzahlungsbedingung zu binden."
+
+#: public/views/walletHome.html:42
+msgid "You do not have a wallet"
+msgstr "Kein Wallet vorhanden"
+
+#: public/views/modals/choose-profile.html:69
+msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
+msgstr "Sie müssen ein Verifizierungsverfahren durchlaufen, um ein Profil zu erhalten. Suchen Sie im Bot Store nach dem Real Name Attestation Bot."
+
+#: public/views/modals/offer-prosaic-contract.html:92
+msgid "You will be charged {{CHARGE_AMOUNT}} mcm to compensate for fees when posting signature proof."
+msgstr "Sie werden mit {{CHARGE_AMOUNT}} Bytes belastet, um Gebühren beim Posten von Signaturnachweisen auszugleichen."
+
+#: public/views/backup.html:55
+#: public/views/recoveryFromSeed.html:31
+msgid "Your Wallet Seed:"
+msgstr "Ihr Wallet-Seed:"
+
+#: public/views/export.html:33
+msgid "Your export password"
+msgstr "Ihr exportiertes Passwort"
+
+#: public/views/includes/password.html:18
+msgid "Your password"
+msgstr "Ihr Passwort"
+
+#: public/views/import.html:31
+msgid "Your wallet file:"
+msgstr "Ihre Wallet-Datei:"
+
+#: public/views/includes/password.html:40
+msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
+msgstr "Der Schlüssel des Wallets wird verschlüsselt. Das Passwort kann nicht wiederhergestellt werden. Stellen Sie sicher, dass Sie dieses notiert haben"
+
+#: public/views/splash.html:90
+msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
+msgstr "Ihr Wallet wird auf diesem Gerät erstellt. Bewahren Sie es sicher auf. Sie können die Backup-Optionen im Einstellungsmenü finden."
+
+#: public/views/create.html:94
+msgid "[ Add new co-signer device ]"
+msgstr "[Neues Mitunterzeichner Gerät hinzufügen]"
+
+#: public/views/modals/offer-prosaic-contract.html:56
+#: public/views/modals/offer-prosaic-contract.html:63
+#: public/views/modals/view-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:82
+msgid "address"
+msgstr "Adresse"
+
+#: public/views/preferencesAttestorAddresses.html:18
+msgid "addresses"
+msgstr "Adressen"
+
+#: public/views/modals/bind.html:37
+#: public/views/modals/offer-contract.html:44
+#: public/views/modals/offer-contract.html:52
+msgid "amount"
+msgstr "Betrag"
+
+#: public/views/modals/bind.html:31
+msgid "an event is posted by an oracle"
+msgstr "ein Event wird von einem Orakel gesendet"
+
+#: public/views/modals/share.html:43
+msgid "and erase the textcoin to keep it safe from attackers."
+msgstr "und löschen Sie die Textcoin um diese vor Angreifern zu schützen."
+
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by trusted attestor"
+msgstr "bestätigt von vertrauenswürdigem Gutachter"
+
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by:"
+msgstr "Bestätigt von:"
+
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attestor is not trusted by you"
+msgstr "Gutachter wird von Ihnen nicht vertraut"
+
+#: public/views/walletHome.html:574
+msgid "available"
+msgstr "verfügbar"
+
+#: src/js/controllers/index.js:467
+msgid "by address"
+msgstr "nach Adressen"
+
+#: public/views/modals/view-prosaic-contract.html:106
+msgid "calculated hash:"
+msgstr "Berechneter Hash:"
+
+#: public/views/modals/address-definition.html:16
+#: public/views/modals/multi-payment.html:28
+msgid "can be spent if:"
+msgstr ""
+
+#: public/views/modals/offer-contract.html:77
+msgid "can unlock the contract"
+msgstr "kann den Vertrag entsperren"
+
+#: public/views/modals/offer-contract.html:107
+msgid "can unlock the contract after it expires in"
+msgstr "kann den Vertrag entsperren, nachdem er abgelaufen ist, in"
+
+#: public/views/copayers.html:38
+msgid "cancel wallet creation"
+msgstr "Abbrechen der Wallet Erstellung"
+
+#: public/views/modals/tx-details.html:140
+msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
+msgstr "beansprucht durch {{btx.claimedByMe?'mich':'Empfänger'|translate}}"
+
+#: public/views/editCorrespondentDevice.html:64
+msgid "clear chat history"
+msgstr "Chatverlauf löschen"
+
+#: public/views/walletHome.html:574
+msgid "confirmed"
+msgstr "bestätigt"
+
+#: public/views/modals/select-subwallet.html:39
+msgid "created"
+msgstr "erstellt"
+
+#: public/views/modals/view-prosaic-contract.html:96
+msgid "creation date:"
+msgstr "Erstellungsdatum:"
+
+#: public/views/modals/offer-contract.html:109
+msgid "days"
+msgstr "Tage"
+
+#: public/views/modals/bind.html:82
+#: public/views/modals/offer-contract.html:99
+msgid "detailed instructions about using"
+msgstr "detaillierte Anweisungen zur Benutzung"
+
+#: public/views/backup.html:28
+msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
+msgstr "z.B. 1-von-2 Wallet mit einem Schlüssel auf diesem Gerät und einem weiteren Schlüssel auf Ihrem Computer."
+
+#: public/views/backup.html:27
+msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
+msgstr "z.B. 1-von-2 Wallet mit einem Schlüssel auf diesem Gerät und einem weiteren Schlüssel auf Ihrem Smartphone."
+
+#: public/views/modals/bind.html:79
+msgid "either way"
+msgstr "so oder so"
+
+#: public/views/modals/tx-details.html:151
+msgid "erase textcoin"
+msgstr "Textcoin löschen"
+
+#: public/views/modals/bind.html:71
+msgid "explicitly"
+msgstr "ausdrücklich"
+
+#: public/views/modals/view-prosaic-contract.html:107
+msgid "hash published in DAG:"
+msgstr "Hash in DAG veröffentlicht:"
+
+#: public/views/modals/view-prosaic-contract.html:97
+msgid "hash source string:"
+msgstr "Hash Quell-String:"
+
+#: public/views/modals/bind.html:87
+#: public/views/modals/offer-contract.html:69
+#: public/views/modals/offer-prosaic-contract.html:72
+msgid "hours"
+msgstr "Stunden"
+
+#: public/views/modals/offer-contract.html:78
+msgid "if an event is posted by an oracle"
+msgstr "wenn ein Orakel ein Event postet"
+
+#: public/views/modals/bind.html:75
+msgid "in merkle tree"
+msgstr "im Hash-Baum"
+
+#: public/views/walletHome.html:171
+msgid "in smart wallets"
+msgstr "in Smart Wallets"
+
+#: public/views/modals/signed-message.html:29
+msgid "invalid"
+msgstr "ungültig"
+
+#: public/views/includes/backup-reminder.html:7
+msgid "it is recoommended to back it up."
+msgstr ""
+
+#: public/views/modals/share.html:36
+msgid "keep for myself"
+msgstr "für mich behalten"
+
+#: public/views/includes/available-balance.html:12
+msgid "locked by pending payments"
+msgstr "durch ausstehende Zahlungen gesperrt"
+
+#: public/views/modals/tx-details.html:134
+msgid "not claimed"
+msgstr "nicht beansprucht"
+
+#: public/views/modals/view-prosaic-contract.html:103
+msgid "not valid"
+msgstr "Ungültig"
+
+#: public/views/copayers.html:26
+#: public/views/includes/sidebar.html:15
+#: public/views/includes/walletInfo.html:2
+#: public/views/modals/destination-address.html:73
+#: public/views/paymentUri.html:37
+msgid "of"
+msgstr ""
+
+#: public/views/editCorrespondentDevice.html:59
+msgid "on"
+msgstr "an"
+
+#: public/views/modals/bind.html:55
+#: public/views/modals/offer-contract.html:88
+msgid "on feed name"
+msgstr "auf Feed Namen"
+
+#: public/views/walletHome.html:458
+#: public/views/walletHome.html:469
+msgid "optional"
+msgstr "optional"
+
+#: public/views/modals/offer-contract.html:100
+msgid "or"
+msgstr "oder"
+
+#: public/views/backup.html:24
+msgid "or backup all MCM data at"
+msgstr "oder sichern Sie alle MCM Daten unter"
+
+#: public/views/modals/offer-contract.html:51
+msgid "peer pays"
+msgstr "Teilnehmer bezahlt"
+
+#: public/views/modals/bind.html:67
+msgid "posted"
+msgstr "gesendet"
+
+#: public/views/modals/share.html:30
+msgid "re"
+msgstr ""
+
+#: public/views/modals/tx-details.html:154
+msgid "re-send private payloads"
+msgstr "Private Transaktionen erneut senden"
+
+#: public/views/modals/tx-details.html:157
+msgid "re-send private payloads to cosigners"
+msgstr "private Transaktionsdaten erneut zu Mitunterzeichner senden"
+
+#: public/views/correspondentDevices.html:171
+msgid "search by bot name"
+msgstr "nach Bot-Namen suchen"
+
+#: public/views/correspondentDevices.html:112
+msgid "search by contact name"
+msgstr "nach Kontaktnamen suchen"
+
+#: public/views/modals/share.html:35
+msgid "send"
+msgstr "senden"
+
+#: public/views/modals/share.html:30
+#: src/js/controllers/walletHome.js:785
+msgid "send email"
+msgstr "sende E-Mail"
+
+#: src/js/controllers/walletHome.js:1000
+#: src/js/controllers/walletHome.js:1013
+#: src/js/controllers/walletHome.js:1113
+#: src/js/controllers/walletHome.js:1169
+#: src/js/controllers/walletHome.js:1316
+#: src/js/controllers/walletHome.js:1353
+#: src/js/controllers/walletHome.js:1361
+#: src/js/controllers/walletHome.js:930
+#: src/js/controllers/walletHome.js:965
+msgid "sending"
+msgstr "Sende"
+
+#: public/views/modals/tx-details.html:148
+msgid "share again"
+msgstr "nochmals teilen"
+
+#: public/views/walletHome.html:444
+msgid "switch to multi-address"
+msgstr "zu Multi-Address wechseln"
+
+#: public/views/walletHome.html:443
+msgid "switch to single address"
+msgstr "zu Single-Address wechseln"
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "the contract is not signed yet"
+msgstr "Der Vertrag ist noch nicht unterzeichnet"
+
+#: public/views/modals/share.html:39
+msgid "the text below and send it to the recipient via any messaging app"
+msgstr "den untenstehenden Text und senden Sie ihn an den Empfänger über eine beliebige Messaging-App"
+
+#: public/views/modals/approveNewWitnesses.html:17
+msgid "to"
+msgstr "an"
+
+#: src/js/controllers/index.js:370
+msgid "together with"
+msgstr "zusammen mit"
+
+#: public/views/walletHome.html:459
+#: public/views/walletHome.html:470
+msgid "too long!"
+msgstr "zu lang!"
+
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+msgid "trusted"
+msgstr "Vertrauenswürdig"
+
+#: public/views/modals/view-prosaic-contract.html:94
+msgid "unit in DAG:"
+msgstr "Einheit in DAG:"
+
+#: public/views/modals/signed-message.html:30
+#: public/views/modals/view-prosaic-contract.html:102
+msgid "valid"
+msgstr "gültig"
+
+#: public/views/modals/view-prosaic-contract.html:100
+msgid "validate contract integrity"
+msgstr "Vertrags-Integrität überprüfen"
+
+#: src/js/controllers/walletHome.js:882
+msgid "wait for sync to complete before sending payments"
+msgstr "warten Sie bis die Synchronisierung abgeschlossen ist, bevor Sie Zahlungen versenden"
+
+#: public/views/modals/select-subwallet.html:37
+msgid "with"
+msgstr "mit"
+
+#: public/views/modals/bind.html:58
+#: public/views/modals/offer-contract.html:91
+msgid "with expected value"
+msgstr "mit erwartetem Wert"
+

@@ -1,0 +1,2358 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: byteball\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: byteball\n"
+"X-Crowdin-Language: yo\n"
+"X-Crowdin-File: /master/i18n/po/template.pot\n"
+"Last-Translator: testz\n"
+"Language-Team: Yoruba\n"
+"Language: yo_NG\n"
+"PO-Revision-Date: 2019-06-07 14:35\n"
+
+#: public/views/modals/share.html:43
+msgid "'Receive' tab → 'Claim funds using textcoin' button."
+msgstr "'Gba'taabu 'gba owo nipa lilo textcoin' botini."
+
+#: public/views/authConfirmation.html:10
+msgid "(The site won't see your balance and no money will be spent)"
+msgstr "(Siti na ko ni ni Aaye naa lati ri iwontunwonsi re ati pe ko si owo ti nina)"
+
+#: public/views/modals/choose-profile.html:44
+msgid "(current wallet)"
+msgstr "(apamowo lowolowo)"
+
+#: public/views/modals/choose-profile.html:47
+msgid "(my other wallet)"
+msgstr "(Apamowo mi miiran)"
+
+#: public/views/walletHome.html:674
+msgid "(possible double spend)"
+msgstr "(O le se ilopo meji)"
+
+#: public/views/create.html:92
+msgid "-- Select co-signer --"
+msgstr "Yan ajo-onigbowo"
+
+#: public/views/modals/claim-textcoin.html:32
+msgid "12 words separated by dashes"
+msgstr "Awon oro mejila ti a yato nipase awon apon"
+
+#: public/views/preferencesGlobal.html:143
+msgid "About MCM"
+msgstr ""
+
+#: src/js/controllers/copayers.js:8
+#: src/js/controllers/preferencesDelete.js:9
+#: src/js/controllers/walletHome.js:130
+#: src/js/services/confirmDialog.js:8
+msgid "Accept"
+msgstr "Gba"
+
+#: public/views/acceptCorrespondentInvitation.html:23
+msgid "Accept invitation"
+msgstr "Gba ipe si"
+
+#: public/views/addCorrespondentDevice.html:22
+msgid "Accept invitation from the other device"
+msgstr "Gba ipe lati ero miiran"
+
+#: public/views/preferencesInformation.html:65
+msgid "Account"
+msgstr "Iroyin"
+
+#: public/views/bot.html:36
+msgid "Add Bot"
+msgstr "Fi botu kun"
+
+#: public/views/correspondentDevices.html:153
+msgid "Add a new device"
+msgstr "Fi ero titun kun"
+
+#: public/views/modals/destination-address.html:100
+#: public/views/modals/destination-address.html:107
+msgid "Add a new entry"
+msgstr "Fi titewole tuntun sii"
+
+#: public/views/preferencesEditRealNameAttestors.html:25
+msgid "Add address"
+msgstr ""
+
+#: public/views/walletHome.html:574
+msgid "Add answer"
+msgstr "Fi idahun kun"
+
+#: public/views/walletHome.html:574
+msgid "Add fields"
+msgstr "Fi awon aaye kun"
+
+#: public/views/includes/sidebar.html:23
+msgid "Add wallet"
+msgstr "Fi apamowo kun"
+
+#: public/views/correspondentDevices.html:194
+msgid "Added"
+msgstr "Fi kun"
+
+#: public/views/modals/customized-amount.html:32
+#: public/views/modals/destination-address.html:119
+#: public/views/paymentUri.html:15
+msgid "Address"
+msgstr "Adiresi"
+
+#: public/views/walletHome.html:546
+msgid "Address to attest"
+msgstr "Adiresi kari jeri"
+
+#: public/views/modals/destination-address.html:19
+#: public/views/modals/destination-address.html:23
+msgid "Addressbook"
+msgstr "Atileyin iwe"
+
+#: public/views/preferencesEditRealNameAttestors.html:15
+msgid "Addresses"
+msgstr ""
+
+#: public/views/preferences.html:66
+msgid "Advanced"
+msgstr "Ti ni Ilosiwaju"
+
+#: public/views/modals/view-prosaic-contract.html:136
+msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
+msgstr ""
+
+#: public/views/modals/share.html:43
+msgid "After writing it down, find this transaction in"
+msgstr "Leyin to ba ti ko sile, wa idunadura yi ni"
+
+#: public/views/disclaimer.html:37
+msgid "Agree"
+msgstr "Gba"
+
+#: public/views/preferencesAlias.html:12
+msgid "Alias for"
+msgstr ""
+
+#: public/views/preferencesInformation.html:95
+msgid "All Wallet Addresses"
+msgstr "Gbogbo Awon Adiresi Apamowo"
+
+#: public/views/translators.html:52
+msgid "All contributions to MCM's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
+msgstr ""
+
+#: public/views/modals/multi-payment.html:56
+msgid "Already Paid"
+msgstr "Ti San Tele"
+
+#: src/js/controllers/correspondentDevice.js:1381
+msgid "Already saved"
+msgstr "Ti o ti fipamo"
+
+#: public/views/walletHome.html:168
+msgid "Also"
+msgstr "Bakannaa"
+
+#: public/views/splash.html:91
+msgid "Also in the Settings menu, you will find security options such as setting a password."
+msgstr "Bakannaa ni akojo asayan, iwo yoo wa awon asayan aabo bi eto oro igbaniwole."
+
+#: public/views/includes/password.html:42
+msgid "Also, don't forget to delete your seed"
+msgstr "Bakannaa, mase gbagbe lati pa irugbin re"
+
+#: public/views/includes/output.html:6
+#: public/views/modals/customized-amount.html:38
+#: public/views/modals/customized-amount.html:59
+#: public/views/modals/customized-amount.html:62
+#: public/views/paymentUri.html:16
+#: public/views/walletHome.html:376
+msgid "Amount"
+msgstr "Iye"
+
+#: public/views/walletHome.html:574
+msgid "Answer"
+msgstr "Idahun"
+
+#: public/views/modals/vote.html:22
+msgid "Answer:"
+msgstr "Idahun:"
+
+#: public/views/copayers.html:19
+msgid "Approve wallet creation on other devices"
+msgstr "Gba eda apamowo lori awon ero miiran"
+
+#: src/js/controllers/backup.js:6
+msgid "Are you sure you want to delete the backup words?"
+msgstr "Se o da o loju pe o fe pa awon oro afeyinti naa?"
+
+#: src/js/controllers/copayers.js:7
+#: src/js/controllers/preferencesDelete.js:8
+msgid "Are you sure you want to delete this wallet?"
+msgstr "Seo da e loju pe o fe pa apamowo yi?"
+
+#: public/views/modals/customized-amount.html:72
+msgid "Asset"
+msgstr "Dukia"
+
+#: public/views/walletHome.html:532
+msgid "Attest profile data linked to any MCM address."
+msgstr ""
+
+#: public/views/walletHome.html:345
+msgid "Attestation"
+msgstr "Ifarahan"
+
+#: public/views/modals/accept-profile.html:34
+#: public/views/modals/choose-profile.html:41
+msgid "Attested address:"
+msgstr "Adiresi ti o ti Fi han:"
+
+#: public/views/modals/accept-profile.html:30
+#: public/views/modals/choose-profile.html:37
+msgid "Attested by:"
+msgstr "Talo fi han:"
+
+#: public/views/preferencesGlobal.html:75
+msgid "Attestor addresses"
+msgstr "Awon adiresi eni ti o fi han"
+
+#: public/views/preferencesWitnesses.html:11
+msgid "Auto-update the witness list from the hub"
+msgstr "Imudara aifowoyi ni akojo eri lati ibudo"
+
+#: public/views/preferencesHub.html:16
+msgid "Auto-update the witness list from this hub"
+msgstr "Imudara aifowoyi ni akojo eri lati ibudo"
+
+#: public/views/includes/available-balance.html:7
+msgid "Available Balance"
+msgstr "Atunwo to wa"
+
+#: public/views/acceptCorrespondentInvitation.html:13
+#: public/views/bot.html:13
+#: public/views/correspondentDevice.html:14
+#: public/views/correspondentDevices.html:75
+#: public/views/editCorrespondentDevice.html:14
+#: public/views/includes/topbar.html:8
+#: public/views/modals/correspondentListToReSendPrivPayloads.html:6
+#: public/views/modals/destination-address.html:9
+#: public/views/modals/tx-details.html:5
+msgid "Back"
+msgstr "Pada"
+
+#: public/views/walletHome.html:250
+msgid "Backup now"
+msgstr "Afeyinti bayi"
+
+#: public/views/preferencesGlobal.html:108
+msgid "Backup wallet seed"
+msgstr "Apamowo apo-afeyinti"
+
+#: src/js/controllers/backup.js:7
+msgid "Backup words deleted"
+msgstr "Awon oro afeyinti paare"
+
+#: public/views/preferencesGlobal.html:98
+msgid "Backups"
+msgstr "Awon afeyinti"
+
+#: src/js/controllers/correspondentDevice.js:1364
+msgid "Bad profile"
+msgstr "Awori buruku"
+
+#: public/views/preferencesInformation.html:107
+msgid "Balance By Address"
+msgstr "Afeyinti Nipa Adiresi"
+
+#: public/views/walletHome.html:244
+msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
+msgstr "Saaju gbigba owo, a ni iseduro niyanju lati se afeyinti awon botini apamowo re."
+
+#: public/views/backup.html:26
+msgid "Better yet, use multisig wallets with redundancy,"
+msgstr "Dara sibe, lo awon apamowo multisigi pelu apoju,"
+
+#: public/views/modals/bind.html:8
+#: public/views/modals/bind.html:94
+msgid "Bind payment"
+msgstr "Fowo owo sisan"
+
+#: public/views/walletHome.html:437
+#: public/views/walletHome.html:450
+msgid "Bind the payment to a condition"
+msgstr "Fi owo si owo ipo kan"
+
+#: public/views/paymentUri.html:10
+msgid "Bitcoin URI is NOT valid!"
+msgstr "URL ti Bitcoinu ko ni wulo!"
+
+#: public/views/bot.html:23
+msgid "Bot Store"
+msgstr "Itaja Botu"
+
+#: public/views/correspondentDevice.html:291
+msgid "Both you and {{correspondent.name}} enabled local chat history recording."
+msgstr "Iwo pelu {{correspondent.name}} sise agbasile itan iwiregbe."
+
+#: public/views/unsupported.html:6
+msgid "Browser unsupported"
+msgstr "Ero ikiri ayelujara tiko ni atileyin"
+
+#: public/views/includes/password.html:24
+msgid "CANCEL"
+msgstr "FAGILEE"
+
+#: public/views/splash.html:43
+#: public/views/splash.html:85
+msgid "CONTINUE"
+msgstr "TESIWAJU"
+
+#: public/views/modals/destination-address.html:128
+#: public/views/walletHome.html:491
+#: src/js/controllers/copayers.js:9
+#: src/js/controllers/preferencesDelete.js:10
+#: src/js/controllers/walletHome.js:131
+#: src/js/services/confirmDialog.js:9
+msgid "Cancel"
+msgstr "Fagilee"
+
+#: public/views/editCorrespondentDevice.html:44
+msgid "Change hub:"
+msgstr "Paro ibudo:"
+
+#: public/views/preferencesAlias.html:16
+msgid "Changing wallet alias only affects the local wallet name."
+msgstr "Piparo oruko apeje ti apamowo ni ipa lori oruko apamowo ti agbegbe nikan."
+
+#: src/js/controllers/index.js:821
+msgid "Chat"
+msgstr "Iwiregbe"
+
+#: public/views/import.html:33
+msgid "Choose File"
+msgstr "Yan faili"
+
+#: public/views/modals/choose-profile.html:8
+msgid "Choose private profile"
+msgstr "Yan awori ikoko"
+
+#: public/views/modals/correspondentListToReSendPrivPayloads.html:10
+msgid "Choose the device to send to"
+msgstr "Yan ero iranse si"
+
+#: public/views/modals/choose-profile.html:51
+msgid "Choose which fields to send:"
+msgstr "Yan awon apa to fe firanse:"
+
+#: src/js/controllers/walletHome.js:502
+msgid "Claim funds"
+msgstr "Gba awon owo"
+
+#: public/views/modals/claim-textcoin.html:8
+msgid "Claim funds by textcoin"
+msgstr "Gba awon owo nipase textcoin"
+
+#: public/views/walletHome.html:320
+msgid "Claim funds using textcoin"
+msgstr "Gba awon owo nipa lilo textcoin"
+
+#: public/views/walletHome.html:85
+msgid "Claiming..."
+msgstr "Gbigba..."
+
+#: public/views/modals/share.html:30
+msgid "Click the button to"
+msgstr ""
+
+#: public/views/walletHome.html:513
+msgid "Click this button to create a payment file and send it to a recipient."
+msgstr "Te botini eleyi lati seda faili apo isanwo ati lati firanse losi odo'lugba."
+
+#: public/views/walletHome.html:512
+msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
+msgstr "Te botini yi lati seda apo isanwo ati pipin re latipase awon ifiranse ikoko ninu ohun elo iwiregbe tabi lati seda apamowo oni iwe."
+
+#: public/views/correspondentDevices.html:80
+#: public/views/includes/topbar.html:13
+#: public/views/modals/accept-profile.html:10
+#: public/views/modals/address-definition.html:30
+#: public/views/modals/address-definition.html:4
+#: public/views/modals/approveNewWitnesses.html:4
+#: public/views/modals/bind.html:4
+#: public/views/modals/choose-profile.html:4
+#: public/views/modals/choose-profile.html:70
+#: public/views/modals/claim-textcoin.html:4
+#: public/views/modals/customized-amount.html:4
+#: public/views/modals/destination-address.html:5
+#: public/views/modals/multi-payment.html:4
+#: public/views/modals/offer-contract.html:29
+#: public/views/modals/offer-prosaic-contract.html:38
+#: public/views/modals/scanner.html:4
+#: public/views/modals/select-subwallet.html:4
+#: public/views/modals/share.html:13
+#: public/views/modals/sign-message.html:4
+#: public/views/modals/signed-message.html:39
+#: public/views/modals/signed-message.html:4
+#: public/views/modals/view-prosaic-contract.html:53
+#: public/views/modals/vote.html:4
+msgid "Close"
+msgstr "Pade"
+
+#: public/views/create.html:90
+msgid "Co-signer"
+msgstr ""
+
+#: public/views/preferencesInformation.html:73
+msgid "Co-signers"
+msgstr "Awon ti ajo fowo siwe"
+
+#: public/views/includes/sidebar.html:35
+msgid "Co-signers for multisig"
+msgstr "Awon ti ajo fowo siwe fun multisig"
+
+#: public/views/preferences.html:29
+msgid "Color"
+msgstr "Awo"
+
+#: public/views/preferencesAbout.html:18
+msgid "Commit hash"
+msgstr "Da hash"
+
+#: public/views/export.html:45
+msgid "Compress the file? (Slower)"
+msgstr "Sunki faili na? (die die)"
+
+#: src/js/controllers/copayers.js:10
+#: src/js/controllers/index.js:660
+#: src/js/controllers/preferencesDelete.js:11
+#: src/js/controllers/walletHome.js:132
+#: src/js/controllers/walletHome.js:1824
+#: src/js/controllers/walletHome.js:1828
+#: src/js/services/confirmDialog.js:10
+msgid "Confirm"
+msgstr "Jerisi"
+
+#: public/views/modals/vote.html:46
+msgid "Confirm Vote"
+msgstr "Jerisi ibo"
+
+#: public/views/modals/multi-payment.html:8
+msgid "Confirm payment"
+msgstr "Jerisi isanwo"
+
+#: public/views/modals/vote.html:8
+msgid "Confirm vote"
+msgstr "Jerisi ibo"
+
+#: public/views/modals/tx-details.html:124
+msgid "Confirmed"
+msgstr "Fidimule"
+
+#: public/views/correspondentDevices.html:90
+msgid "Contacts"
+msgstr "Awon olubasoro"
+
+#: src/js/controllers/correspondentDevice.js:1733
+#: src/js/controllers/editCorrespondentDevice.js:120
+#: src/js/controllers/inviteCorrespondentDevice.js:32
+#: src/js/controllers/walletHome.js:403
+msgid "Copied to clipboard"
+msgstr "Daako si ori iwe alabode"
+
+#: public/views/modals/share.html:39
+msgid "Copy"
+msgstr "Daako"
+
+#: public/views/recoveryFromSeed.html:42
+msgid "Correspondents and chats are not restored."
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:111
+msgid "Cosigners"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:708
+msgid "Could not create payment proposal"
+msgstr "A kole se idakale imoran isanwo"
+
+#: src/js/services/profileService.js:281
+msgid "Could not create using the specified extended private key"
+msgstr "Kole dale nipase kokoro ikoko pato ti a fagun"
+
+#: src/js/services/profileService.js:291
+msgid "Could not create using the specified extended public key"
+msgstr "Kole dasile nipase kokoro gbangba pato ti a fagun"
+
+#: src/js/services/profileService.js:274
+msgid "Could not create: Invalid wallet seed"
+msgstr "Ko le seda: Irugbin apamowo ko dara"
+
+#: src/js/controllers/backup.js:81
+msgid "Could not decrypt"
+msgstr "Kole gbo gbin"
+
+#: public/views/walletHome.html:629
+msgid "Could not fetch transaction history"
+msgstr "Ko ri itan idunadura"
+
+#: src/js/services/profileService.js:510
+#: src/js/services/profileService.js:537
+#: src/js/services/profileService.js:559
+msgid "Could not import"
+msgstr "Kole gbe wole"
+
+#: src/js/services/profileService.js:487
+msgid "Could not import. Check input file and password"
+msgstr "Kole gbe wole. Ye faili tite ati oro igbaniwole"
+
+#: src/js/controllers/walletHome.js:708
+msgid "Could not send payment"
+msgstr "Kole fi isan owo ranse"
+
+#: src/js/controllers/correspondentDevice.js:1330
+msgid "Country"
+msgstr "Orile ede"
+
+#: public/views/walletHome.html:44
+msgid "Create"
+msgstr "Seda"
+
+#: public/views/includes/sidebar.html:25
+msgid "Create a new wallet"
+msgstr "Seda apamowo titun"
+
+#: public/views/add.html:15
+#: public/views/create.html:175
+#: src/js/controllers/index.js:370
+msgid "Create new wallet"
+msgstr "Seda apamowo titun"
+
+#: public/views/create.html:171
+msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
+msgstr "Seda {{requiredCosigners}}-ti-{{totalCosigners}} apamowo"
+
+#: public/views/modals/address-definition.html:23
+msgid "Created:"
+msgstr "O to seda:"
+
+#: public/views/splash.html:75
+msgid "Creating Profile..."
+msgstr "Siseda awori..."
+
+#: public/views/create.html:20
+msgid "Creating Wallet..."
+msgstr "Siseda apamowo..."
+
+#: public/views/backup.html:93
+msgid "DELETE WORDS"
+msgstr "PA AWON ORO RE"
+
+#: public/views/walletHome.html:347
+msgid "Data"
+msgstr "Data"
+
+#: public/views/walletHome.html:344
+msgid "Data into datafeed"
+msgstr "Data sinu datafeed"
+
+#: public/views/walletHome.html:574
+msgid "Datafeed name"
+msgstr "Oruko datafeed"
+
+#: public/views/walletHome.html:574
+msgid "Datafeed value"
+msgstr "Iye Datafeed"
+
+#: public/views/modals/tx-details.html:94
+msgid "Date"
+msgstr "Ojo"
+
+#: src/js/controllers/correspondentDevice.js:1329
+msgid "Date of birth"
+msgstr "Ojo ibi"
+
+#: src/js/controllers/index.js:336
+msgid "Declined"
+msgstr "Ko sile"
+
+#: public/views/walletHome.html:197
+msgid "Definition"
+msgstr "Itumo"
+
+#: public/views/modals/address-definition.html:8
+msgid "Definition of smart address"
+msgstr "Itumo ti adiresi to jafafa"
+
+#: public/views/modals/multi-payment.html:25
+msgid "Definitions of addresses"
+msgstr "Awon itunmo ti awon adiresi"
+
+#: public/views/preferencesAdvanced.html:31
+msgid "Delete Wallet"
+msgstr "Yo Apamowo"
+
+#: public/views/preferencesDeleteWallet.html:23
+msgid "Delete wallet"
+msgstr "Yo apamowo"
+
+#: src/js/controllers/walletHome.js:1821
+msgid "Deleting the textcoin will remove the ability to claim it back or resend"
+msgstr "Yiyo textcoin yio yo anfani lati gba pada tabi tun firanse"
+
+#: public/views/preferencesInformation.html:44
+msgid "Derivation Strategy"
+msgstr "Itunjade igbimo"
+
+#: public/views/modals/customized-amount.html:29
+#: public/views/modals/multi-payment.html:17
+#: public/views/modals/tx-details.html:34
+msgid "Details"
+msgstr "Alaye lekunrere"
+
+#: public/views/preferencesGlobal.html:79
+msgid "Device address"
+msgstr "Adiresi ero"
+
+#: public/views/preferencesDeviceName.html:12
+#: public/views/preferencesGlobal.html:17
+msgid "Device name"
+msgstr "Oruko ero"
+
+#: public/views/preferencesDeviceName.html:16
+msgid "Device name is visible to other devices you communicate with."
+msgstr "Oruko ero wa ni hihan si awon ero miran ti oun ba soro."
+
+#: public/views/recoveryFromSeed.html:43
+msgid "Do not clone wallets, stop using the original wallet with this seed."
+msgstr "Mase se adaako apamowo, ye ma lo apamowo ojulowo pelu irugbin yi."
+
+#: public/views/backup.html:59
+msgid "Do not use it to clone the wallet."
+msgstr "Mase lo lati seda oniye apamowo yi."
+
+#: public/views/translators.html:55
+msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
+msgstr "Nje o ri ede re lori Crowin? Soro pelu eni toni lori Crowdin! A o nifesi lati jumo gbe ede re ga."
+
+#: public/views/inviteCorrespondentDevice.html:34
+#: public/views/modals/destination-address.html:41
+msgid "Done"
+msgstr "Oti se"
+
+#: public/views/walletHome.html:730
+msgid "Download CSV file"
+msgstr "Gba faili CSV lati ayelujara"
+
+#: public/views/splash.html:26
+msgid "Download the entire MCM database"
+msgstr ""
+
+#: public/views/modals/destination-address.html:38
+msgid "Edit"
+msgstr "Se atunse"
+
+#: public/views/correspondentDevice.html:294
+msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
+msgstr "Yala iwo tabi {{correspondent.name}} ti pa akosile itan oro. Ko si akosile itan fun enikeni nisin."
+
+#: public/views/editCorrespondentDevice.html:35
+#: public/views/preferencesGlobal.html:62
+msgid "Enable push notifications"
+msgstr "Gbalaye iwifunni titu"
+
+#: public/views/acceptCorrespondentInvitation.html:47
+msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
+msgstr "Te oro sisopo ti o gba lati owo ero keji, tabi ko lo ayaworan (aami to wa ni eti oke, lapa otun) lati se oloje koodu QR to han lori ero keji."
+
+#: public/views/includes/password.html:13
+msgid "Enter your password"
+msgstr "Te oro igbawole re"
+
+#: src/js/services/profileService.js:341
+#: src/js/services/profileService.js:393
+msgid "Error creating wallet"
+msgstr "Asise nigba siseda apamowo"
+
+#: public/views/modals/view-prosaic-contract.html:68
+msgid "Expired on"
+msgstr ""
+
+#: public/views/export.html:51
+msgid "Export"
+msgstr "Firanse"
+
+#: src/js/controllers/export.js:141
+#: src/js/controllers/export.js:166
+msgid "Export completed successfully"
+msgstr "Ifiranse ti pari laseyori"
+
+#: public/views/export.html:19
+msgid "Exporting..."
+msgstr "Fifiranse..."
+
+#: public/views/preferencesInformation.html:83
+msgid "Extended Public Keys"
+msgstr "Kokoro gbagba ti a fagun"
+
+#: public/views/export.html:25
+msgid "Failed to export"
+msgstr "Ko le firanse"
+
+#: public/views/modals/tx-details.html:101
+msgid "Fee"
+msgstr "Owo"
+
+#: public/views/walletHome.html:574
+msgid "Field"
+msgstr "Papa"
+
+#: src/js/controllers/export.js:88
+msgid "File saved to /MCM/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
+msgstr ""
+
+#: public/views/modals/tx-details.html:119
+msgid "Finality"
+msgstr "Ipari"
+
+#: src/js/controllers/correspondentDevice.js:1327
+msgid "First name"
+msgstr "Oruko akoko"
+
+#: public/views/modals/tx-details.html:69
+msgid "From"
+msgstr "Lati"
+
+#: public/views/editCorrespondentDevice.html:27
+msgid "Full address:"
+msgstr "Adiresi lekun rere:"
+
+#: public/views/preferencesGlobal.html:126
+msgid "Full backup"
+msgstr "Afeyinti pipe"
+
+#: public/views/splash.html:92
+msgid "GET STARTED"
+msgstr "OYA BERE"
+
+#: src/js/controllers/walletHome.js:432
+msgid "Generate QR Code"
+msgstr "Pilese koodu QR"
+
+#: public/views/walletHome.html:306
+msgid "Generate new address"
+msgstr "Pilese adiresi tuntun"
+
+#: public/views/walletHome.html:81
+msgid "Generating .csv file..."
+msgstr "Pilese faili .csv..."
+
+#: public/views/modals/destination-address.html:61
+msgid "Getting address for wallet"
+msgstr ""
+
+#: public/views/includes/sidebar.html:45
+msgid "Global preferences"
+msgstr "Asansile agbaye"
+
+#: public/views/disclaimer.html:41
+msgid "Go back"
+msgstr "Pada losehin"
+
+#: public/views/preferences.html:51
+msgid "Hardware wallet"
+msgstr "Apamowo to le gbamu"
+
+#: public/views/preferences.html:59
+msgid "Hidden assets"
+msgstr "Dukia ikoko"
+
+#: public/views/backup.html:45
+msgid "Hide the Wallet Seed"
+msgstr "Fi irugbin apamowo pamo"
+
+#: public/views/modals/share.html:43
+#: src/js/controllers/index.js:817
+msgid "History"
+msgstr "Itan"
+
+#: src/js/controllers/index.js:805
+msgid "Home"
+msgstr "Ile"
+
+#: public/views/preferencesTor.html:14
+msgid "Host"
+msgstr "Agbalejo"
+
+#: public/views/preferencesGlobal.html:25
+msgid "Hub"
+msgstr "Ibudo"
+
+#: public/views/preferencesHub.html:12
+msgid "Hub URL"
+msgstr "Ibudo URL"
+
+#: public/views/disclaimer.html:36
+msgid "I affirm that I have read, understood, and agree with these terms."
+msgstr "Mo jeri daju pe moti ka, la kaye, mosi faramo awon ofin yi."
+
+#: public/views/includes/backup-reminder.html:14
+msgid "I created a backup"
+msgstr ""
+
+#: public/views/modals/offer-contract.html:43
+msgid "I pay"
+msgstr "Mo san owo"
+
+#: public/views/modals/bind.html:27
+msgid "I receive another payment of"
+msgstr "Mo gba owo miran ti"
+
+#: src/js/controllers/correspondentDevice.js:1336
+msgid "ID expires at"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1337
+msgid "ID issued at"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1333
+msgid "ID number"
+msgstr "Nomba idanimo"
+
+#: src/js/controllers/correspondentDevice.js:1335
+msgid "ID subtype"
+msgstr "Omiran Idanimo"
+
+#: src/js/controllers/correspondentDevice.js:1334
+msgid "ID type"
+msgstr "Iru idanimo"
+
+#: public/views/modals/tx-details.html:157
+msgid "If any of your cosigner devices doesn't see this payment, you can"
+msgstr "Ti ikan kan lara ero awon ajofowo bo iwe re o ba ri isan owo yi, o le"
+
+#: public/views/modals/bind.html:85
+msgid "If the condition is not met, I can take this money back after"
+msgstr "Ti o ba se imuse ileri, mo le gba owo yi pada leyin"
+
+#: public/views/modals/offer-contract.html:67
+msgid "If the peer doesn't pay, I can take my money back after"
+msgstr "Ti elegbe koba san owo, mo le gba owo mi pada leyin"
+
+#: public/views/modals/tx-details.html:148
+#: public/views/modals/tx-details.html:154
+msgid "If the recipient doesn't see your payment, you can"
+msgstr "Ti olugba o ba ri isanowo re, o le"
+
+#: public/views/import.html:47
+msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
+msgstr "Ti o ba ti sun ifeyinti lati ero miran, ye ma lo lori ti ojulowo leyin to ba ti seda ifeyinti. Mase seda apamowo omiran. To ba nilo wiwole lato ri ero omiran, lo multisig."
+
+#: public/views/export.html:58
+msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
+msgstr "Ti o bafe se idapada apamowo lori ero omiran, jawo kuro lati ma lo lori eleyi toun lo lowolowo lesekese leyin to ba seda ifeyinti. Mase seda apamowo kan na. To ba nilo wiwole lati ori ero to po, lo multisig."
+
+#: public/views/import.html:40
+msgid "Import"
+msgstr "Gbe wole"
+
+#: public/views/add.html:22
+msgid "Import wallet"
+msgstr "Gbe apamowo wole"
+
+#: public/views/import.html:19
+msgid "Importing wallet..."
+msgstr "Gbigbe apamowo wole..."
+
+#: public/views/walletHome.html:138
+msgid "Including pending confirmation"
+msgstr "Pelu akoko imuduro Imudaju"
+
+#: public/views/walletHome.html:648
+msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
+"          Please stand by."
+msgstr "Isopo itan idunadura akoko le gba iseju die fun apamowo oni idunadura pupo. <br>\n"
+"          Jowo duro."
+
+#: public/views/correspondentDevice.html:330
+msgid "Insert my address"
+msgstr "Fi adiresi mi si"
+
+#: public/views/correspondentDevice.html:346
+msgid "Insert private profile"
+msgstr "Fi awori ikoko si"
+
+#: public/views/walletHome.html:667
+msgid "Invalid"
+msgstr "Aifesemule"
+
+#: src/js/controllers/index.js:1790
+msgid "Invalid Touch ID"
+msgstr "Aifesemule idanimo ifowokan"
+
+#: public/views/addCorrespondentDevice.html:15
+msgid "Invite the other device"
+msgstr "Pe ero ikeji"
+
+#: public/views/backup.html:22
+msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as titan."
+msgstr ""
+
+#: public/views/splash.html:36
+msgid "Keep only data relevant to you"
+msgstr "Fi data to tan mo ara e nikan pamo"
+
+#: public/views/modals/destination-address.html:121
+msgid "Label"
+msgstr "Aami"
+
+#: public/views/preferencesGlobal.html:39
+msgid "Language"
+msgstr "Ede"
+
+#: src/js/controllers/correspondentDevice.js:1328
+msgid "Last name"
+msgstr "Oruko idile"
+
+#: public/views/modals/newVersionIsAvailable.html:12
+msgid "Later"
+msgstr "Nigbami"
+
+#: src/js/controllers/disclaimer.js:13
+msgid "Loading..."
+msgstr "O n gbera..."
+
+#: public/views/paymentUri.html:13
+msgid "Make a payment to"
+msgstr "Se isanwo si"
+
+#: public/views/modals/approveNewWitnesses.html:29
+msgid "Maybe later"
+msgstr "Boya nigba omiran"
+
+#: public/views/includes/copayers.html:4
+#: public/views/modals/offer-contract.html:117
+#: public/views/modals/offer-prosaic-contract.html:51
+#: public/views/modals/view-prosaic-contract.html:70
+#: public/views/preferencesInformation.html:76
+msgid "Me"
+msgstr "Emi"
+
+#: public/views/modals/tx-details.html:113
+msgid "Merchant message"
+msgstr "Ifiranse Onisowo"
+
+#: public/views/walletHome.html:457
+msgid "Merkle proof"
+msgstr "Amudaju Merkle"
+
+#: public/views/paymentUri.html:17
+msgid "Message"
+msgstr "Ifiranse"
+
+#: public/views/modals/sign-message.html:17
+#: public/views/modals/signed-message.html:17
+msgid "Message:"
+msgstr "Ifiranse:"
+
+#: public/views/correspondentDevice.html:26
+msgid "More"
+msgstr ""
+
+#: public/views/walletHome.html:666
+msgid "Moved"
+msgstr "O tu sun"
+
+#: public/views/create.html:32
+msgid "Multidevice Wallet"
+msgstr "Apamowo ero olona"
+
+#: public/views/walletHome.html:258
+msgid "My MCM address"
+msgstr ""
+
+#: public/views/correspondentDevice.html:300
+msgid "My recording preference"
+msgstr "Igbasile aayo mi"
+
+#: public/views/modals/destination-address.html:122
+msgid "Name of the contact"
+msgstr "Oruko olubasoro"
+
+#: public/views/paymentUri.html:18
+msgid "Network"
+msgstr "Netiwoki"
+
+#: src/js/controllers/create.js:29
+msgid "New Random Seed"
+msgstr "Ifirugbin id tuntun"
+
+#: public/views/modals/newVersionIsAvailable.html:3
+msgid "New version is available!"
+msgstr "Eya titun ti wa!"
+
+#: public/views/modals/approveNewWitnesses.html:9
+msgid "New witnesses"
+msgstr "Awon eleri titun"
+
+#: public/views/authConfirmation.html:22
+#: src/js/controllers/index.js:659
+#: src/js/controllers/walletHome.js:1836
+msgid "No"
+msgstr "Rara"
+
+#: src/js/controllers/password.js:18
+msgid "No password given"
+msgstr "Ko si atewole"
+
+#: public/views/modals/choose-profile.html:67
+msgid "No profiles matching the requested criteria."
+msgstr "Ko si awori to papo mo ilano to bere."
+
+#: public/views/modals/choose-profile.html:68
+msgid "No profiles yet."
+msgstr "Koti si awori."
+
+#: public/views/walletHome.html:632
+msgid "No transactions yet"
+msgstr "Ko ti si idunadura"
+
+#: public/views/modals/claim-textcoin.html:21
+#: public/views/modals/customized-amount.html:51
+#: public/views/modals/destination-address.html:113
+#: public/views/walletHome.html:368
+#: public/views/walletHome.html:405
+#: public/views/walletHome.html:414
+#: public/views/walletHome.html:551
+msgid "Not valid"
+msgstr "Ko wulo"
+
+#: public/views/includes/output.html:12
+#: public/views/modals/tx-details.html:109
+#: public/views/modals/tx-details.html:84
+#: public/views/walletHome.html:468
+#: public/views/walletHome.html:695
+msgid "Note"
+msgstr "Kiyesi"
+
+#: src/js/controllers/export.js:88
+msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
+msgstr "Niisin, o nilo lati fi faili yi ranse si ibikan lati se idapada lati oori e nigbami \n"
+"(\"Fipamo si Awon faili\", fi ranse si ara re nipa lilo awon apps iwiregbe, ati bebe lo)"
+
+#: public/index.html:12
+msgid "MCM &mdash; smart payments"
+msgstr ""
+
+#: public/views/modals/destination-address.html:120
+msgid "MCM address"
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:88
+msgid "Offer Contract"
+msgstr ""
+
+#: public/views/modals/offer-contract.html:33
+#: src/js/services/correspondentListService.js:129
+msgid "Offer a contract"
+msgstr "Funni adehun"
+
+#: public/views/modals/offer-prosaic-contract.html:72
+msgid "Offer is valid for"
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:42
+#: src/js/services/correspondentListService.js:129
+msgid "Offer prosaic contract"
+msgstr ""
+
+#: public/views/backup.html:87
+msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
+msgstr "Ti o bati ko ifirugbin apamowo re sile, a gba e niyanniju ko yo kuro lori ero yi."
+
+#: public/views/recoveryFromSeed.html:41
+msgid "Only single-sig wallets can be recovered."
+msgstr "Awon apamowo oni Ibuwolu kan la le rapada."
+
+#: public/views/bot.html:35
+msgid "Open chat"
+msgstr "Iwiregbe to shi sile"
+
+#: public/views/walletHome.html:574
+msgid "Options for answering"
+msgstr "Awon asanyan fun didahun"
+
+#: public/views/modals/share.html:39
+msgid "Or copy"
+msgstr "Tabi daako"
+
+#: public/views/acceptCorrespondentInvitation.html:54
+msgid "Pair"
+msgstr "Sopo"
+
+#: public/views/includes/sidebar.html:33
+msgid "Paired devices"
+msgstr "Awon ero to ti sopo"
+
+#: public/views/acceptCorrespondentInvitation.html:49
+msgid "Pairing code"
+msgstr "Koodu isopo"
+
+#: public/views/paperWallet.html:79
+msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
+msgstr "Textcoin lasun ni awon apamowo oniwe je. Se ayewo koodu QR ti apamowo oniwe nipase ami ayaworan ton be loke lapa otun tabi te oro mejila ti textcoin funrafunrara e lori apa \"gbigba\"."
+
+#: public/views/paperWallet.html:39
+msgid "Passphrase"
+msgstr "Oro igbaniwole"
+
+#: src/js/services/profileService.js:675
+msgid "Password needed"
+msgstr "Anilo igbaniwole"
+
+#: src/js/controllers/password.js:36
+msgid "Passwords do not match"
+msgstr "Igbaniwole ko baramu"
+
+#: public/views/paperWallet.html:31
+msgid "Paste your paper wallet private key here"
+msgstr "Lee kokoro ikoko apamowo oniwe re sihin"
+
+#: public/views/modals/offer-contract.html:138
+msgid "Pay and offer"
+msgstr "San ati fun"
+
+#: src/js/services/correspondentListService.js:129
+msgid "Pay to this address"
+msgstr "San si adiresi yi"
+
+#: public/views/modals/tx-status.html:28
+msgid "Payment Accepted"
+msgstr "Agba isanwo"
+
+#: public/views/modals/tx-status.html:16
+msgid "Payment Proposal Created"
+msgstr "A ti da Imoran isanwo sile"
+
+#: public/views/walletHome.html:214
+msgid "Payment Proposals"
+msgstr "Awon imoran isanwo"
+
+#: public/views/modals/tx-status.html:38
+msgid "Payment Rejected"
+msgstr "Ako isanwo"
+
+#: public/views/modals/tx-status.html:5
+msgid "Payment Sent"
+msgstr "Ati fisanwo ranse"
+
+#: public/views/modals/offer-prosaic-contract.html:58
+#: public/views/modals/view-prosaic-contract.html:77
+msgid "Peer"
+msgstr ""
+
+#: public/views/modals/address-definition.html:19
+msgid "Peer:"
+msgstr "Elegbe:"
+
+#: public/views/preferencesDeleteWallet.html:22
+msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
+msgstr "Pa apamowo yi re laitojo. IGBESE YI KO SE DAPADA"
+
+#: src/js/controllers/correspondentDevice.js:1331
+msgid "Personal code"
+msgstr ""
+
+#: public/views/create.html:28
+msgid "Plain Wallet"
+msgstr "Apamowo Gbangba"
+
+#: src/js/controllers/index.js:275
+msgid "Please approve contract fees deposit on the other devices."
+msgstr ""
+
+#: src/js/controllers/index.js:280
+msgid "Please approve posting prosaic contract hash on the other devices."
+msgstr ""
+
+#: public/views/splash.html:20
+msgid "Please choose how much data to store in your wallet"
+msgstr "Jowo mu iye data tofe fipamo si inu apamowo re"
+
+#: src/js/controllers/create.js:99
+msgid "Please enter the required fields"
+msgstr "Jowo fowosi awon apa ti a beere"
+
+#: public/views/splash.html:82
+msgid "Please name this device"
+msgstr "Jowo so ero yi loruko"
+
+#: src/js/controllers/correspondentDevice.js:150
+msgid "Please switch to a single-address wallet and you probably need to insert your address again."
+msgstr "Jowo yipada si apamowo oni adireesi kan ati pe o nilo lati tun fi adiresi re sii."
+
+#: public/views/includes/backup-reminder.html:8
+msgid "Please visit the Backups section in"
+msgstr ""
+
+#: public/views/walletHome.html:348
+msgid "Poll"
+msgstr "Idibo"
+
+#: public/views/preferencesTor.html:16
+msgid "Port"
+msgstr "Ibudo"
+
+#: public/views/walletHome.html:541
+msgid "Post a poll into MCM network that users can vote on with Poll bot."
+msgstr ""
+
+#: public/views/walletHome.html:538
+msgid "Post arbitrary key-value pairs of data into MCM network."
+msgstr ""
+
+#: public/views/walletHome.html:529
+msgid "Post values into datafeeds manually, be an oracle."
+msgstr "Ko awon iye sinu awon datafeeds pelu owo re, je orisha."
+
+#: public/views/walletHome.html:535
+msgid "Post your profile data, anything you want to say about yourself."
+msgstr "Ko data awori re, ohun ko hun to ba fe so nipa arare."
+
+#: public/views/walletHome.html:193
+#: public/views/walletHome.html:47
+msgid "Preferences"
+msgstr "Awon aayo"
+
+#: src/js/services/backButtonService.js:73
+msgid "Press again to exit"
+msgstr "Te lekan si lati jade"
+
+#: public/views/recoveryFromSeed.html:40
+msgid "Private assets (such as titan) and smart contracts are not recovered."
+msgstr ""
+
+#: src/js/controllers/walletHome.js:1890
+#: src/js/controllers/walletHome.js:1966
+msgid "Private payloads sent"
+msgstr "Awon eru sisan ikoko ti lo"
+
+#: public/views/modals/accept-profile.html:14
+msgid "Private profile"
+msgstr "Awori ikoko"
+
+#: public/views/walletHome.html:346
+msgid "Profile"
+msgstr "Awori"
+
+#: public/views/walletHome.html:574
+msgid "Profile field"
+msgstr "Apa awori"
+
+#: public/views/walletHome.html:574
+msgid "Profile field value"
+msgstr "Iye apa Awori"
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "Proof of contract signing"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:57
+msgid "Prosaic contract"
+msgstr ""
+
+#: public/views/modals/customized-amount.html:16
+msgid "QR Code"
+msgstr "Koodu QR"
+
+#: public/views/modals/scanner.html:8
+msgid "QR-Scanner"
+msgstr "Aseda aworan-QR"
+
+#: public/views/walletHome.html:561
+msgid "Question to be voted on"
+msgstr "Ibere ti aa dibo lori"
+
+#: public/views/modals/vote.html:17
+msgid "Question:"
+msgstr "Ibere:"
+
+#: public/views/preferencesAttestorAddresses.html:16
+msgid "Real name attestors"
+msgstr ""
+
+#: src/js/controllers/index.js:809
+msgid "Receive"
+msgstr "Gba"
+
+#: public/views/walletHome.html:663
+msgid "Received"
+msgstr "Ti gba"
+
+#: public/views/includes/transaction.html:15
+#: public/views/modals/tx-details.html:61
+msgid "Recipients"
+msgstr "Awon olugba"
+
+#: public/views/walletHome.html:60
+msgid "Reconnecting to Wallet Service..."
+msgstr "Sisopo si ise apamowo..."
+
+#: public/views/recoveryFromSeed.html:34
+msgid "Recover"
+msgstr "Gba pada"
+
+#: public/views/preferencesGlobal.html:117
+msgid "Recovery from seed"
+msgstr "Gba pada lati odo irugbin"
+
+#: public/views/walletHome.html:80
+msgid "Recreating Wallet..."
+msgstr "Atunda Apamowo..."
+
+#: src/js/controllers/index.js:288
+msgid "Refused"
+msgstr "Ko"
+
+#: public/views/preferencesAbout.html:8
+msgid "Release Information"
+msgstr "Fi alaye sile"
+
+#: public/views/includes/backup-reminder.html:11
+msgid "Remind Later"
+msgstr ""
+
+#: public/views/modals/destination-address.html:85
+msgid "Remove"
+msgstr "Yọ kúrò"
+
+#: public/views/correspondentDevices.html:159
+msgid "Remove a device"
+msgstr "Yo ero kan kuro"
+
+#: public/views/editCorrespondentDevice.html:42
+msgid "Rename:"
+msgstr "Tun so loruko:"
+
+#: public/views/export.html:40
+#: public/views/includes/password.html:10
+msgid "Repeat password"
+msgstr "Tun te oro igbaniwole"
+
+#: public/views/export.html:37
+msgid "Repeat the password"
+msgstr "Tun te oro igbaniwole"
+
+#: public/views/modals/approveNewWitnesses.html:23
+msgid "Replace"
+msgstr "Ropo"
+
+#: public/views/preferencesGlobal.html:90
+msgid "Request Password"
+msgstr "Bere Oro Igbaniwole"
+
+#: public/views/modals/customized-amount.html:8
+#: public/views/walletHome.html:315
+msgid "Request a specific amount"
+msgstr "Bere iye pato kan"
+
+#: public/views/correspondentDevice.html:339
+msgid "Request payment"
+msgstr "Bere owo"
+
+#: public/views/create.html:74
+msgid "Required number of signatures"
+msgstr "Iye awon ibuwolu ti a beere"
+
+#: public/views/preferencesGlobal.html:135
+msgid "Restore from full backup"
+msgstr "Dapada lati ori afeyinti ekun"
+
+#: public/views/splash.html:64
+msgid "Retrying..."
+msgstr "Tun gbiyanju..."
+
+#: public/views/modals/view-prosaic-contract.html:144
+msgid "Revoke"
+msgstr ""
+
+#: public/views/includes/password.html:32
+msgid "SET"
+msgstr "SETO"
+
+#: public/views/editCorrespondentDevice.html:50
+#: public/views/modals/destination-address.html:133
+#: public/views/preferencesAlias.html:14
+#: public/views/preferencesDeviceName.html:14
+#: public/views/preferencesEditAttestorAddress.html:14
+#: public/views/preferencesEditRealNameAttestors.html:29
+#: public/views/preferencesEditWitness.html:15
+#: public/views/preferencesEmail.html:35
+#: public/views/preferencesHub.html:18
+#: public/views/preferencesTor.html:19
+msgid "Save"
+msgstr "Fipamo"
+
+#: public/views/preferencesEmail.html:21
+msgid "Saving preferences..."
+msgstr "Fifipamo awon aayo..."
+
+#: public/views/preferences.html:76
+msgid "Scan Fingerprint/FaceID"
+msgstr ""
+
+#: public/views/walletHome.html:121
+msgid "Scan status finished with error"
+msgstr "Yaworan ipo ti pari pelu asise"
+
+#: public/views/inviteCorrespondentDevice.html:21
+msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
+msgstr "Yaworan koodu QR to wa loke nipase ero keji, tabi fi koodu isopo ranse si ero keji:"
+
+#: src/js/controllers/index.js:1783
+msgid "Scan your fingerprint please"
+msgstr "Jowo yaworan ila owo re"
+
+#: public/views/walletHome.html:79
+msgid "Scanning Wallet funds..."
+msgstr "Yiyaworan awon owo apamowo..."
+
+#: public/views/recoveryFromSeed.html:19
+msgid "Scanning for addresses..."
+msgstr "Yiyaworan fun awon adireesi..."
+
+#: public/views/paymentUri.html:30
+msgid "Select a wallet"
+msgstr "Mu apamowo kan"
+
+#: public/views/modals/select-subwallet.html:8
+msgid "Select subwallet"
+msgstr "Mu iha apamowo"
+
+#: public/views/preferencesHiddenAssets.html:29
+msgid "Select the assets to hide in the wallet"
+msgstr "Mu awon dukia lati fipamo sinu apamowo naa"
+
+#: public/views/authConfirmation.html:10
+msgid "Select your identity"
+msgstr "Mu idanimo re"
+
+#: public/views/includes/transaction.html:10
+#: public/views/walletHome.html:494
+#: public/views/walletHome.html:593
+#: src/js/controllers/index.js:813
+msgid "Send"
+msgstr "Firanse"
+
+#: public/views/modals/multi-payment.html:53
+msgid "Send Payment"
+msgstr "Fi owo ranse"
+
+#: public/views/preferencesInformation.html:125
+msgid "Send addresses by email"
+msgstr "Fi adiresi ranse nipa e-mail"
+
+#: public/views/walletHome.html:378
+msgid "Send all"
+msgstr "Fi gbogbo e ranse"
+
+#: public/views/preferencesLogs.html:15
+msgid "Send by email"
+msgstr "Fi ranse nipa email"
+
+#: public/views/modals/choose-profile.html:62
+msgid "Send this profile"
+msgstr "Fi awori yii ranse"
+
+#: public/views/walletHome.html:84
+msgid "Sending..."
+msgstr "Fifiranse..."
+
+#: public/views/walletHome.html:665
+msgid "Sent"
+msgstr "Firanse"
+
+#: public/views/preferencesAbout.html:38
+msgid "Session log"
+msgstr "Sáà àkọsílẹ̀ iṣẹ́"
+
+#: public/views/export.html:30
+msgid "Set up a Password"
+msgstr "Seto Oro-igbaniwole kan"
+
+#: public/views/includes/password.html:9
+msgid "Set up a password"
+msgstr "Seto oro igbaniwole kan"
+
+#: public/views/includes/backup-reminder.html:8
+#: public/views/includes/sidebar.html:43
+msgid "Settings"
+msgstr "Awon iseto"
+
+#: public/views/modals/share.html:17
+msgid "Share"
+msgstr "Pin"
+
+#: public/views/modals/customized-amount.html:24
+#: public/views/walletHome.html:293
+msgid "Share address"
+msgstr "Pin adiresi"
+
+#: public/views/inviteCorrespondentDevice.html:27
+msgid "Share the code"
+msgstr "Pin koodu naa"
+
+#: public/views/walletHome.html:298
+msgid "Share this wallet address to receive payments."
+msgstr "Pin adiresi apamowo yi lati gba awon isan owo."
+
+#: public/views/walletHome.html:393
+#: public/views/walletHome.html:514
+msgid "Share via message"
+msgstr "Pin nipase ifiranse"
+
+#: public/views/walletHome.html:722
+msgid "Show all"
+msgstr "Safihan gbogbo e"
+
+#: public/views/backup.html:44
+msgid "Show the Wallet Seed Anyway"
+msgstr "Safihan irugbin ti apamowo lonokona"
+
+#: public/views/modals/sign-message.html:46
+msgid "Sign"
+msgstr "Ibuwolu"
+
+#: public/views/modals/sign-message.html:8
+#: src/js/controllers/index.js:467
+msgid "Sign message"
+msgstr "Ise ibuwolu"
+
+#: public/views/editCorrespondentDevice.html:57
+msgid "Signed contracts:"
+msgstr ""
+
+#: public/views/modals/signed-message.html:8
+msgid "Signed message"
+msgstr "Ise ti ati buwolu"
+
+#: public/views/modals/sign-message.html:22
+#: public/views/modals/signed-message.html:22
+msgid "Signing address:"
+msgstr "Adiresi ibuwolu:"
+
+#: public/views/create.html:56
+#: public/views/preferences.html:36
+msgid "Single address wallet"
+msgstr "Apamọ́wọ́ àdírẹ́ẹ̀sì-kan"
+
+#: public/views/create.html:59
+#: public/views/preferences.html:38
+msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
+msgstr "Awon Apamowo oni Adiresi kan koni seda awon adiresi titun fun gbogbo idunadura, iyipada yio ma losi adiresi kan soso ti apamowo na ni."
+
+#: src/js/services/profileService.js:335
+msgid "Small Expenses Wallet"
+msgstr "Apamowo awon inawo kekere"
+
+#: src/js/controllers/create.js:32
+msgid "Specify Seed..."
+msgstr "So irugbin pato..."
+
+#: public/views/preferencesGlobal.html:94
+msgid "Spend unconfirmed funds"
+msgstr ""
+
+#: public/views/preferences.html:70
+#: public/views/preferencesGlobal.html:86
+msgid "Spending Restrictions"
+msgstr "Awon Hihamo inawo"
+
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "Status"
+msgstr ""
+
+#: public/views/preferencesGlobal.html:104
+msgid "Still not done"
+msgstr "Ko ti si setun"
+
+#: src/js/controllers/correspondentDevice.js:1383
+msgid "Store"
+msgstr "Toju"
+
+#: src/js/controllers/copayers.js:76
+#: src/js/controllers/export.js:141
+#: src/js/controllers/export.js:166
+#: src/js/controllers/index.js:325
+#: src/js/controllers/index.js:353
+#: src/js/controllers/preferencesDelete.js:56
+#: src/js/controllers/walletHome.js:1890
+#: src/js/controllers/walletHome.js:1966
+msgid "Success"
+msgstr "Aseyori"
+
+#: public/views/preferencesAdvanced.html:19
+msgid "Sweep paper wallet"
+msgstr "Gba apamowo oniwe"
+
+#: public/views/walletHome.html:83
+msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
+msgstr "Mimusisepo... {{index.count_unhandled_private_payments}} awon isan owo ikoko loku"
+
+#: public/views/walletHome.html:82
+msgid "Syncing... {{index.syncProgress}}"
+msgstr "Mimusisepo... {{index.syncProgress}}"
+
+#: public/views/preferencesGlobal.html:32
+msgid "TOR"
+msgstr "TOR"
+
+#: public/views/preferencesTor.html:12
+msgid "TOR enabled"
+msgstr "TOR sise"
+
+#: public/views/walletHome.html:117
+#: public/views/walletHome.html:122
+#: public/views/walletHome.html:630
+msgid "Tap to retry"
+msgstr "Te lati gbiyanju si"
+
+#: public/views/disclaimer.html:12
+#: public/views/preferencesAbout.html:30
+msgid "Terms of Use"
+msgstr "Awon ofin lilo"
+
+#: public/views/modals/offer-prosaic-contract.html:69
+#: public/views/modals/view-prosaic-contract.html:88
+msgid "Text"
+msgstr ""
+
+#: public/views/correspondentDevice.html:350
+msgid "Text message to"
+msgstr "Iṣẹ́ àyọkà si"
+
+#: public/views/modals/claim-textcoin.html:29
+msgid "Textcoin"
+msgstr "Textcoin"
+
+#: public/views/modals/accept-profile.html:38
+msgid "The attested address belongs to:"
+msgstr "Adiresi ti a ti fi han je ti tani:"
+
+#: public/views/preferencesHub.html:20
+msgid "The hub for receiving messages from other devices."
+msgstr "Ibudo fun gbigba ise lati ori awon ero miran."
+
+#: public/views/modals/approveNewWitnesses.html:11
+msgid "The hub suggests replacing the following witnesses:"
+msgstr "Ibudo na daba sise àfirọ́pò awon olujeri yi:"
+
+#: public/views/modals/share.html:27
+msgid "The money is stored on this textcoin:"
+msgstr "Owo na wa ni afipamo ninu textcoin:"
+
+#: public/views/modals/bind.html:23
+msgid "The peer receives this payment if"
+msgstr "Awon elegbe gba isan wo yi ti"
+
+#: public/views/modals/signed-message.html:28
+msgid "The signature is"
+msgstr "Ibuwolu na ni"
+
+#: public/views/includes/backup-reminder.html:7
+msgid "The total amount on your wallet is"
+msgstr ""
+
+#: public/views/modals/vote.html:52
+msgid "The vote will be signed by all your funded addresses"
+msgstr "Idibo na yio gba ibuwolu latowo gbogbo awon adiresi re to gba owo"
+
+#: src/js/controllers/copayers.js:76
+#: src/js/controllers/preferencesDelete.js:56
+msgid "The wallet \"{{walletName}}\" was deleted"
+msgstr "Won ti yo Apamowo na kuro \"{{walletName}}\""
+
+#: public/views/splash.html:38
+msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
+msgstr "Ataja apamowo na yio le mo omiran ninu awon oseku re yio si nipa lati ri awon idunadura to je tie, sugbon o le bere si ma lo apamowo na ni kia kia ati pe apamowo na sise lekunrere."
+
+#: public/views/correspondentDevice.html:305
+msgid "Their recording preference"
+msgstr "Aayo Igbasile won"
+
+#: public/views/paymentUri.html:23
+msgid "There are no wallets to make this payment"
+msgstr "Ko si awon apamowo lati san owo yi"
+
+#: public/views/walletHome.html:297
+msgid "This address is shared with {{index.shared_address_cosigners}}."
+msgstr "An pin adiresi yii pelu {{index.shared_address_cosigners}}."
+
+#: public/views/splash.html:21
+msgid "This choice cannot be changed later"
+msgstr "Asayan yi kole yipada nigbami"
+
+#: public/views/splash.html:28
+msgid "This option is better for privacy but will take  several gigamcm of storage and the initial sync will take several days.  CPU load will be high during sync."
+msgstr "Asayan yi da fun ipamo sugbon yio gba  gigamcm pupo ti ile ifipamo ati imusisepo akoko le gba ojo pupo. Eru CPU a po nigba imusisepi."
+
+#: public/views/walletHome.html:438
+msgid "This payment is bound to a condition"
+msgstr "Isanwo yi so mo nnkan"
+
+#: src/js/controllers/correspondentDevice.js:150
+msgid "This payment must be paid only from single-address wallet"
+msgstr "Isan wo yi gbudo wa lati odo apamowo aladiresi-kan"
+
+#: public/views/modals/tx-details.html:89
+msgid "This transaction has become invalid; possibly due to a double spend attempt."
+msgstr "Idunadura yi ti je aifesemule; oleje nipase igbiyanju inawo meji."
+
+#: public/views/preferences.html:42
+msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
+msgstr "A kole yi apamowo yi pada si apamowo aladiresi pupo tori o ti ni awon fifihun tele"
+
+#: public/views/preferences.html:41
+msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
+msgstr "A kole yi apamowo yi pada si apamowo aladiresi pupo tori o je ero opo"
+
+#: public/views/preferences.html:39
+msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
+msgstr "Apamowo yi kosle ti pada si apamowo aladiresi kan tori o ti ni awon adiresi pupo tele"
+
+#: public/views/preferences.html:40
+msgid "This wallet cannot be converted to single address wallet as it is multidevice"
+msgstr "A kole yi apamowo yi pada si apamowo aladiresi kan tori o je ero opo"
+
+#: public/views/import.html:46
+#: public/views/recoveryFromSeed.html:39
+msgid "This will permanently delete all your existing wallets!"
+msgstr "Eleyi a yo gbogbo awon apamowo re to wa tele kuro patapata!"
+
+#: public/views/modals/offer-prosaic-contract.html:66
+#: public/views/modals/view-prosaic-contract.html:85
+msgid "Title of contract"
+msgstr ""
+
+#: public/views/includes/output.html:2
+#: public/views/includes/transaction.html:19
+#: public/views/modals/tx-details.html:39
+#: public/views/modals/tx-details.html:74
+#: public/views/walletHome.html:697
+#: src/js/controllers/index.js:1595
+msgid "To"
+msgstr "Si"
+
+#: public/views/walletHome.html:400
+msgid "To MCM address"
+msgstr ""
+
+#: public/views/backup.html:24
+msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
+msgstr "Lati le da ohun gbogbo pada, jowo seda afeyinti ekun (ri asayan na lori akojo)"
+
+#: public/views/walletHome.html:604
+msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
+msgstr ""
+
+#: public/views/walletHome.html:447
+msgid "To bind the payment to a condition, please click the peer's address in chat"
+msgstr "Lati so isanwo na mo nkan, jowo te adiresi elegbe na ninu iwiregbe"
+
+#: src/js/controllers/index.js:1598
+msgid "To email"
+msgstr "Si email"
+
+#: public/views/walletHome.html:299
+msgid "To protect your privacy, new addresses are generated automatically once you use them."
+msgstr "Lati dabobo ikoko re, ipilese awon adiresi titun laifọwọyi ma nsele leyin to ba ti lo won."
+
+#: public/views/modals/view-prosaic-contract.html:95
+msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
+msgstr ""
+
+#: public/views/walletHome.html:222
+msgid "Total Locked Balance"
+msgstr "Iseku apapo ti a ti ti pa"
+
+#: public/views/walletHome.html:377
+msgid "Total amount"
+msgstr "Iye lapapo"
+
+#: public/views/create.html:66
+msgid "Total number of co-signers"
+msgstr "Iye awon ajo se ibuwolu lapapo"
+
+#: public/views/modals/tx-details.html:9
+msgid "Transaction"
+msgstr "Idunadura"
+
+#: src/js/controllers/index.js:270
+msgid "Transaction created.\n"
+"Please approve it on the other devices."
+msgstr ""
+
+#: public/views/walletHome.html:654
+msgid "Transactions<br> Downloaded"
+msgstr "Awon idunadura <br> tati gba lati ori ayelujara"
+
+#: public/views/translators.html:8
+msgid "Translation Credits"
+msgstr "Awon Iyin itunmo"
+
+#: public/views/preferencesAbout.html:34
+msgid "Translators"
+msgstr "Awon olutumo"
+
+#: public/views/preferencesGlobal.html:67
+msgid "Trusted nodes"
+msgstr "Àwọn Ojú-Ìpàdé Tí A Gbẹ́Kẹ̀Lé"
+
+#: src/js/controllers/correspondentDevice.js:1332
+msgid "US state"
+msgstr "Orilede US"
+
+#: src/js/controllers/walletHome.js:854
+msgid "Unable to send transaction proposal"
+msgstr "Akole fi imoran idunadura ranse"
+
+#: public/views/modals/tx-details.html:121
+#: public/views/walletHome.html:685
+msgid "Unconfirmed"
+msgstr "Kole jerisi"
+
+#: public/views/preferencesGlobal.html:53
+msgid "Unit for titan"
+msgstr "Iye fun awon titan"
+
+#: public/views/preferencesGlobal.html:46
+msgid "Unit for mcm"
+msgstr "Iye fun awon mcm"
+
+#: public/views/walletHome.html:215
+msgid "Unsent transactions"
+msgstr "Awin idunadura tikolo"
+
+#: public/views/walletHome.html:73
+msgid "Updating Wallet..."
+msgstr "Sise ìmúdójúìwọ̀n apamowo..."
+
+#: public/views/modals/newVersionIsAvailable.html:6
+msgid "Upgrade to {{version}}"
+msgstr "Igbesoke si {{version}}"
+
+#: public/views/includes/upgrading_db.html:8
+msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
+msgstr "Gbigbesoke àkójọpọ̀ détà, jowo duro. Nigbami o le lo iseju die."
+
+#: public/views/modals/view-prosaic-contract.html:67
+msgid "Valid till"
+msgstr ""
+
+#: public/views/walletHome.html:574
+msgid "Value"
+msgstr "Iye"
+
+#: public/views/walletHome.html:574
+msgid "Values"
+msgstr "Awon iye"
+
+#: src/js/controllers/correspondentDevice.js:1356
+msgid "Verifying the profile..."
+msgstr "Ijerisi awori..."
+
+#: public/views/preferencesAbout.html:12
+msgid "Version"
+msgstr "Eya"
+
+#: public/views/export.html:56
+msgid "WARNING:"
+msgstr "IKILO:"
+
+#: public/views/walletHome.html:240
+msgid "WARNING: Backup needed"
+msgstr "IKILO: nilo ẹ̀dà àbọ̀-ábá"
+
+#: public/views/backup.html:77
+msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
+msgstr "IKILO: aseda irugbin yi pelu oro agbaniwole. Lati gba apamowo yi pada anilo akomona ati oro igbaniwole."
+
+#: public/views/import.html:44
+#: public/views/recoveryFromSeed.html:37
+msgid "WARNINGS:"
+msgstr "AWON IKILO:"
+
+#: public/views/splash.html:53
+msgid "WELCOME TO O<sub>byte</sub>"
+msgstr ""
+
+#: public/views/copayers.html:24
+msgid "Waiting for co-signers"
+msgstr "Diduro de awon ajo fowobowe"
+
+#: public/views/copayers.html:33
+msgid "Waiting..."
+msgstr "Diduro..."
+
+#: public/views/preferencesDeleteWallet.html:12
+msgid "Wallet"
+msgstr "Àpàmówó"
+
+#: public/views/preferences.html:20
+msgid "Wallet Alias"
+msgstr "Oruko apeje apamowo"
+
+#: public/views/preferencesInformation.html:27
+msgid "Wallet Configuration (m-n)"
+msgstr "Iseto Apamowo (m-n)"
+
+#: public/views/preferencesInformation.html:20
+msgid "Wallet Id"
+msgstr "Idanimo apamowo"
+
+#: public/views/preferencesAdvanced.html:14
+#: public/views/preferencesInformation.html:8
+msgid "Wallet Information"
+msgstr "Àlàyé àpamọ́wọ́"
+
+#: public/views/preferencesInformation.html:12
+msgid "Wallet Name (at creation)"
+msgstr "Oruko apamowo (ni iseda)"
+
+#: src/js/services/profileService.js:456
+msgid "Wallet already in MCM:"
+msgstr ""
+
+#: public/views/create.html:48
+msgid "Wallet name"
+msgstr "Oruko Apamowo"
+
+#: public/views/backup.html:34
+msgid "Wallet seed not available."
+msgstr "Irugbin apamowo o si nile."
+
+#: public/views/modals/destination-address.html:15
+#: public/views/modals/destination-address.html:29
+msgid "Wallets"
+msgstr "Awon Apamowo"
+
+#: public/views/preferencesDeleteWallet.html:15
+msgid "Warning!"
+msgstr "Ikilo!"
+
+#: public/views/modals/tx-details.html:132
+msgid "Was claimed?"
+msgstr "Ti gba?"
+
+#: public/views/walletHome.html:340
+msgid "What to send"
+msgstr "Kini ifiranse"
+
+#: public/views/modals/multi-payment.html:35
+#: public/views/modals/offer-contract.html:112
+#: public/views/modals/sign-message.html:28
+#: public/views/modals/vote.html:28
+#: public/views/walletHome.html:483
+#: public/views/walletHome.html:507
+#: public/views/walletHome.html:585
+msgid "Who signs:"
+msgstr "Talo fowosiwe:"
+
+#: public/views/preferencesEditWitness.html:13
+msgid "Witness address"
+msgstr "Adiresi eleri"
+
+#: public/views/preferencesGlobal.html:71
+msgid "Witnesses"
+msgstr "Awon eleri"
+
+#: public/views/modals/share.html:43
+msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
+msgstr "Ko textcoin yi sile lori iwe kosi fipamo dada. Gba pada nigbakugba ni ojo iwaju nipa lilo"
+
+#: public/views/backup.html:56
+msgid "Write it down and keep it somewhere safe."
+msgstr "Ko sile kosi fipamo sibikan tiko lewu."
+
+#: src/js/services/profileService.js:685
+msgid "Wrong password"
+msgstr "Oro agbaniwole tiko to"
+
+#: public/views/authConfirmation.html:17
+#: src/js/controllers/index.js:658
+msgid "Yes"
+msgstr "Beeni"
+
+#: public/views/modals/tx-details.html:151
+msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
+msgstr "Ole pa textcoin re kuro ninu apamowo re to ba ti fipamo si ibomiran tele. (bi apamowo oni iwe):"
+
+#: public/views/modals/bind.html:99
+msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
+msgstr "O kole so idunadura re lati fa isan wo pada tori o wa ninu apamowo aladiresi kan. Lo apamowo ti konje aladiresi kan ko wa fi owo na ranse si apamowo yi."
+
+#: public/views/walletHome.html:42
+msgid "You do not have a wallet"
+msgstr "O ko ni apamowo kankan"
+
+#: public/views/modals/choose-profile.html:69
+msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
+msgstr "O nilo lati la fifihun koja lati gba awori. Wa bootu Ifihan Oruko to daju ni Itaja Bootu."
+
+#: public/views/modals/offer-prosaic-contract.html:92
+msgid "You will be charged {{CHARGE_AMOUNT}} mcm to compensate for fees when posting signature proof."
+msgstr ""
+
+#: public/views/backup.html:55
+#: public/views/recoveryFromSeed.html:31
+msgid "Your Wallet Seed:"
+msgstr "Ifirugbin apamowo re:"
+
+#: public/views/export.html:33
+msgid "Your export password"
+msgstr "Oro agbaniwole ifiranse re"
+
+#: public/views/includes/password.html:18
+msgid "Your password"
+msgstr "Ọrọ igbaniwọle rẹ"
+
+#: public/views/import.html:31
+msgid "Your wallet file:"
+msgstr "Apo iwe apamowo re:"
+
+#: public/views/includes/password.html:40
+msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
+msgstr "Kokoro apamowo re yio je aroko. Oro igbaniwole re kole pada mo. Kiyesi pe o kosile"
+
+#: public/views/splash.html:90
+msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
+msgstr "Aseda apamowo re lori ero yi, mu pamo dada. Re awon asayan edà àbọ̀-ábá re ni ajoko awon iseto."
+
+#: public/views/create.html:94
+msgid "[ Add new co-signer device ]"
+msgstr "[fikun ero ajo ibuwolu titun]"
+
+#: public/views/modals/offer-prosaic-contract.html:56
+#: public/views/modals/offer-prosaic-contract.html:63
+#: public/views/modals/view-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:82
+msgid "address"
+msgstr ""
+
+#: public/views/preferencesAttestorAddresses.html:18
+msgid "addresses"
+msgstr ""
+
+#: public/views/modals/bind.html:37
+#: public/views/modals/offer-contract.html:44
+#: public/views/modals/offer-contract.html:52
+msgid "amount"
+msgstr "iye"
+
+#: public/views/modals/bind.html:31
+msgid "an event is posted by an oracle"
+msgstr "orisa loman ko Isele"
+
+#: public/views/modals/share.html:43
+msgid "and erase the textcoin to keep it safe from attackers."
+msgstr "ati pa textcoin na re lati fi pamo fun awon eyan buburu."
+
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by trusted attestor"
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by:"
+msgstr ""
+
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attestor is not trusted by you"
+msgstr ""
+
+#: public/views/walletHome.html:574
+msgid "available"
+msgstr "wa nile"
+
+#: src/js/controllers/index.js:467
+msgid "by address"
+msgstr "nipa adiresi"
+
+#: public/views/modals/view-prosaic-contract.html:106
+msgid "calculated hash:"
+msgstr ""
+
+#: public/views/modals/address-definition.html:16
+#: public/views/modals/multi-payment.html:28
+msgid "can be spent if:"
+msgstr ""
+
+#: public/views/modals/offer-contract.html:77
+msgid "can unlock the contract"
+msgstr "le si adehun na"
+
+#: public/views/modals/offer-contract.html:107
+msgid "can unlock the contract after it expires in"
+msgstr "le si adehun na leyin to ba ti pari ni"
+
+#: public/views/copayers.html:38
+msgid "cancel wallet creation"
+msgstr "daduro iseda apamowo"
+
+#: public/views/modals/tx-details.html:140
+msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
+msgstr "tigba nipa {{btx.claimedByMe?'me':'receiver'|translate}}"
+
+#: public/views/editCorrespondentDevice.html:64
+msgid "clear chat history"
+msgstr "pa itan iweregbe re"
+
+#: public/views/walletHome.html:574
+msgid "confirmed"
+msgstr "ti fidimule"
+
+#: public/views/modals/select-subwallet.html:39
+msgid "created"
+msgstr "ti seda"
+
+#: public/views/modals/view-prosaic-contract.html:96
+msgid "creation date:"
+msgstr ""
+
+#: public/views/modals/offer-contract.html:109
+msgid "days"
+msgstr "awon ojo"
+
+#: public/views/modals/bind.html:82
+#: public/views/modals/offer-contract.html:99
+msgid "detailed instructions about using"
+msgstr ""
+
+#: public/views/backup.html:28
+msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
+msgstr "bi apamowo kan-lara-meji pelu kokoro kan lori ero yi pelu kokoro miran lori àgbélétan re."
+
+#: public/views/backup.html:27
+msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
+msgstr "bi apamowo kan-larin-meji pelu kokoro kan lori ero yi ati kokoro miran lori ero ajafafa re."
+
+#: public/views/modals/bind.html:79
+msgid "either way"
+msgstr "ona èyí tàbí èyinì"
+
+#: public/views/modals/tx-details.html:151
+msgid "erase textcoin"
+msgstr "pa textcoin re"
+
+#: public/views/modals/bind.html:71
+msgid "explicitly"
+msgstr "ni kedere"
+
+#: public/views/modals/view-prosaic-contract.html:107
+msgid "hash published in DAG:"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:97
+msgid "hash source string:"
+msgstr ""
+
+#: public/views/modals/bind.html:87
+#: public/views/modals/offer-contract.html:69
+#: public/views/modals/offer-prosaic-contract.html:72
+msgid "hours"
+msgstr "awon wakati"
+
+#: public/views/modals/offer-contract.html:78
+msgid "if an event is posted by an oracle"
+msgstr "ti orisha ba ko isele"
+
+#: public/views/modals/bind.html:75
+msgid "in merkle tree"
+msgstr "lori igi merkle"
+
+#: public/views/walletHome.html:171
+msgid "in smart wallets"
+msgstr "ninu awon apamowo to jafafa"
+
+#: public/views/modals/signed-message.html:29
+msgid "invalid"
+msgstr "aifesemule"
+
+#: public/views/includes/backup-reminder.html:7
+msgid "it is recoommended to back it up."
+msgstr ""
+
+#: public/views/modals/share.html:36
+msgid "keep for myself"
+msgstr "fipamo fun ara re"
+
+#: public/views/includes/available-balance.html:12
+msgid "locked by pending payments"
+msgstr "ti tipa nipase awon imuduro isanwo"
+
+#: public/views/modals/tx-details.html:134
+msgid "not claimed"
+msgstr "ko reni gba"
+
+#: public/views/modals/view-prosaic-contract.html:103
+msgid "not valid"
+msgstr ""
+
+#: public/views/copayers.html:26
+#: public/views/includes/sidebar.html:15
+#: public/views/includes/walletInfo.html:2
+#: public/views/modals/destination-address.html:73
+#: public/views/paymentUri.html:37
+msgid "of"
+msgstr ""
+
+#: public/views/editCorrespondentDevice.html:59
+msgid "on"
+msgstr ""
+
+#: public/views/modals/bind.html:55
+#: public/views/modals/offer-contract.html:88
+msgid "on feed name"
+msgstr "lori oruko feedi"
+
+#: public/views/walletHome.html:458
+#: public/views/walletHome.html:469
+msgid "optional"
+msgstr "èyí tí ó wu ni"
+
+#: public/views/modals/offer-contract.html:100
+msgid "or"
+msgstr "tabi"
+
+#: public/views/backup.html:24
+msgid "or backup all MCM data at"
+msgstr ""
+
+#: public/views/modals/offer-contract.html:51
+msgid "peer pays"
+msgstr "awon elegbe san owo"
+
+#: public/views/modals/bind.html:67
+msgid "posted"
+msgstr "ti ko"
+
+#: public/views/modals/share.html:30
+msgid "re"
+msgstr ""
+
+#: public/views/modals/tx-details.html:154
+msgid "re-send private payloads"
+msgstr "tu fi se afiranse awon eru sisan ikoko"
+
+#: public/views/modals/tx-details.html:157
+msgid "re-send private payloads to cosigners"
+msgstr "tun se ifiranse awon eru sisan ikokonsi awon ajo fowo bowe"
+
+#: public/views/correspondentDevices.html:171
+msgid "search by bot name"
+msgstr ""
+
+#: public/views/correspondentDevices.html:112
+msgid "search by contact name"
+msgstr ""
+
+#: public/views/modals/share.html:35
+msgid "send"
+msgstr "firanse"
+
+#: public/views/modals/share.html:30
+#: src/js/controllers/walletHome.js:785
+msgid "send email"
+msgstr "fi email ranse"
+
+#: src/js/controllers/walletHome.js:1000
+#: src/js/controllers/walletHome.js:1013
+#: src/js/controllers/walletHome.js:1113
+#: src/js/controllers/walletHome.js:1169
+#: src/js/controllers/walletHome.js:1316
+#: src/js/controllers/walletHome.js:1353
+#: src/js/controllers/walletHome.js:1361
+#: src/js/controllers/walletHome.js:930
+#: src/js/controllers/walletHome.js:965
+msgid "sending"
+msgstr "fifiranse"
+
+#: public/views/modals/tx-details.html:148
+msgid "share again"
+msgstr "tun pin"
+
+#: public/views/walletHome.html:444
+msgid "switch to multi-address"
+msgstr "yipada si adiresi opo"
+
+#: public/views/walletHome.html:443
+msgid "switch to single address"
+msgstr "yipada si adiresi okan"
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "the contract is not signed yet"
+msgstr ""
+
+#: public/views/modals/share.html:39
+msgid "the text below and send it to the recipient via any messaging app"
+msgstr "aroko to wa la be kosi firanse si olugba na nipase eto isise eyikeyi"
+
+#: public/views/modals/approveNewWitnesses.html:17
+msgid "to"
+msgstr "si"
+
+#: src/js/controllers/index.js:370
+msgid "together with"
+msgstr "pelu"
+
+#: public/views/walletHome.html:459
+#: public/views/walletHome.html:470
+msgid "too long!"
+msgstr "ti gun ju!"
+
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+msgid "trusted"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:94
+msgid "unit in DAG:"
+msgstr ""
+
+#: public/views/modals/signed-message.html:30
+#: public/views/modals/view-prosaic-contract.html:102
+msgid "valid"
+msgstr "ifesemule"
+
+#: public/views/modals/view-prosaic-contract.html:100
+msgid "validate contract integrity"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:882
+msgid "wait for sync to complete before sending payments"
+msgstr "duro fun imusisepo lati pari koto se ifiranse awon isan owo"
+
+#: public/views/modals/select-subwallet.html:37
+msgid "with"
+msgstr "pelu"
+
+#: public/views/modals/bind.html:58
+#: public/views/modals/offer-contract.html:91
+msgid "with expected value"
+msgstr "pelu iye tan reti"
+
