@@ -1557,7 +1557,7 @@ msgstr "Les portefeuilles d'adresses uniques ne généreront pas de nouvelles ad
 
 #: src/js/services/profileService.js:335
 msgid "Small Expenses Wallet"
-msgstr "Portefeuille Byteball"
+msgstr "Portefeuille MineralCoinMarket"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."

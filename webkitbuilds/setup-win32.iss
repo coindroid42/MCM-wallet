@@ -36,7 +36,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Registry]
 Root: HKLM; Subkey: "Software\Classes\byteball"; Flags: uninsdeletekey
-Root: HKLM; Subkey: "Software\Classes\byteball"; ValueType: string; ValueName: ""; ValueData: "URL:Byteball Protocol"
+Root: HKLM; Subkey: "Software\Classes\byteball"; ValueType: string; ValueName: ""; ValueData: "URL:MineralCoinMarket Protocol"
 Root: HKLM; Subkey: "Software\Classes\byteball"; ValueType: string; ValueName: "URL Protocol"; ValueData: ""
 Root: HKLM; Subkey: "Software\Classes\byteball\DefaultIcon"; ValueType: string; ValueName: ""; ValueData: "{app}\icon.ico"
 Root: HKLM; Subkey: "Software\Classes\byteball\shell"

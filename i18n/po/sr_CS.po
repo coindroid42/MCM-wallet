@@ -200,7 +200,7 @@ msgstr "Sredstva"
 
 #: public/views/walletHome.html:532
 msgid "Attest profile data linked to any MCM address."
-msgstr "Potvrda podataka o profilu koji je povezan sa nekom Byteball adresom."
+msgstr "Potvrda podataka o profilu koji je povezan sa nekom MineralCoinMarket adresom."
 
 #: public/views/walletHome.html:345
 msgid "Attestation"
