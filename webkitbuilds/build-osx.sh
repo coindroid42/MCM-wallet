@@ -65,7 +65,7 @@ fi
 
 # create the temp DMG file
 hdiutil create -srcfolder "${STAGING_DIR}" -volname "${VOL_NAME}" -fs HFS+ \
-      -fsargs "-c c=64,a=16,e=16" -format UDRW -megamcm ${SIZE} "${DMG_TMP}"
+      -fsargs "-c c=64,a=16,e=16" -format UDRW -megabytes ${SIZE} "${DMG_TMP}"
 
 echo "Created DMG: ${DMG_TMP}"
 

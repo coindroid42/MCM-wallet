@@ -74,7 +74,7 @@ angular.module('copayApp.services').factory('configService', function(storageSer
 		totalCosigners: 6
 	},
 
-	hub: (constants.alt === '2' && isTestnet) ? 'r.m42.cx:6611' : 'r.m42.cx:6611',
+	hub: (constants.alt === '2' && isTestnet) ? 'hub.mineralcoin.market' : 'hub.mineralcoin.market',
 	attestorAddresses: {
 		email: 'H5EZTQE7ABFH27AUDTQFMZIALANK6RBG',
 		reddit: 'OYW2XTDKSNKGSEZ27LMGNOPJSYIXHBHC',

@@ -225,7 +225,7 @@ module.exports = function(grunt) {
           platforms: [getPlatform()],
           appName: 'MCM',
           buildDir: '../mcmbuilds',
-          version: '0.14.7',
+          version: '0.22.3',
           zip: false,
           macIcns: './public/img/icons/logo-circle.icns',
           winIco: './public/img/icons/logo-circle.ico',
